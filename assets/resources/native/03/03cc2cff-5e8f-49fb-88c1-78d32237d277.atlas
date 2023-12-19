@@ -1,0 +1,278 @@
+
+BOSS0012_2.png
+size: 1024,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g2
+  rotate: false
+  xy: 717, 765
+  size: 127, 127
+  orig: 128, 128
+  offset: 1, 0
+  index: -1
+pen_0001
+  rotate: true
+  xy: 884, 940
+  size: 66, 79
+  orig: 267, 445
+  offset: 2, 176
+  index: -1
+pen_0002
+  rotate: true
+  xy: 854, 846
+  size: 92, 145
+  orig: 267, 445
+  offset: 0, 137
+  index: -1
+pen_0003
+  rotate: true
+  xy: 682, 220
+  size: 165, 265
+  orig: 267, 445
+  offset: 1, 80
+  index: -1
+qiu
+  rotate: false
+  xy: 846, 706
+  size: 141, 138
+  orig: 150, 147
+  offset: 5, 4
+  index: -1
+quan_0001
+  rotate: true
+  xy: 2, 910
+  size: 66, 116
+  orig: 175, 425
+  offset: 96, 148
+  index: -1
+quan_0003
+  rotate: true
+  xy: 681, 521
+  size: 117, 242
+  orig: 175, 425
+  offset: 53, 96
+  index: -1
+wu1
+  rotate: false
+  xy: 527, 735
+  size: 185, 93
+  orig: 204, 98
+  offset: 6, 4
+  index: -1
+yan1
+  rotate: false
+  xy: 703, 387
+  size: 240, 132
+  orig: 296, 162
+  offset: 37, 16
+  index: -1
+zhu2_0003
+  rotate: false
+  xy: 2, 102
+  size: 714, 98
+  orig: 725, 110
+  offset: 5, 6
+  index: -1
+zhu2_0005
+  rotate: false
+  xy: 2, 2
+  size: 714, 98
+  orig: 725, 110
+  offset: 5, 6
+  index: -1
+zhu3_0001
+  rotate: false
+  xy: 2, 830
+  size: 713, 62
+  orig: 735, 88
+  offset: 5, 7
+  index: -1
+zhu3_0003
+  rotate: false
+  xy: 2, 427
+  size: 699, 70
+  orig: 735, 88
+  offset: 21, 4
+  index: -1
+zhu3_0005
+  rotate: false
+  xy: 2, 355
+  size: 678, 70
+  orig: 735, 88
+  offset: 46, 8
+  index: -1
+zhu3_0008
+  rotate: false
+  xy: 2, 499
+  size: 662, 73
+  orig: 735, 88
+  offset: 63, 7
+  index: -1
+zhu3_0011
+  rotate: false
+  xy: 2, 279
+  size: 657, 74
+  orig: 735, 88
+  offset: 70, 7
+  index: -1
+zhu3_0014
+  rotate: false
+  xy: 2, 202
+  size: 530, 75
+  orig: 735, 88
+  offset: 197, 7
+  index: -1
+zhu3_0017
+  rotate: false
+  xy: 2, 691
+  size: 345, 72
+  orig: 735, 88
+  offset: 304, 10
+  index: -1
+zhu3_0020
+  rotate: false
+  xy: 588, 955
+  size: 294, 51
+  orig: 735, 88
+  offset: 348, 11
+  index: -1
+zhu4_0001
+  rotate: false
+  xy: 349, 640
+  size: 673, 64
+  orig: 735, 88
+  offset: 26, 8
+  index: -1
+zhu4_0003
+  rotate: false
+  xy: 2, 574
+  size: 677, 64
+  orig: 735, 88
+  offset: 40, 7
+  index: -1
+zhu4_0005
+  rotate: false
+  xy: 2, 765
+  size: 523, 63
+  orig: 735, 88
+  offset: 107, 7
+  index: -1
+zhu4_0008
+  rotate: false
+  xy: 491, 894
+  size: 361, 59
+  orig: 735, 88
+  offset: 275, 8
+  index: -1
+zhu4_0011
+  rotate: false
+  xy: 120, 901
+  size: 369, 54
+  orig: 735, 88
+  offset: 283, 16
+  index: -1
+zhuguang
+  rotate: false
+  xy: 2, 978
+  size: 281, 28
+  orig: 285, 33
+  offset: 2, 3
+  index: -1
+zhuyy
+  rotate: false
+  xy: 285, 957
+  size: 301, 49
+  orig: 303, 51
+  offset: 1, 1
+  index: -1
+
+BOSS0012_22.png
+size: 1011,991
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pen_0004
+  rotate: false
+  xy: 104, 275
+  size: 199, 342
+  orig: 267, 445
+  offset: 7, 46
+  index: -1
+pen_0005
+  rotate: false
+  xy: 815, 619
+  size: 194, 370
+  orig: 267, 445
+  offset: 34, 40
+  index: -1
+pen_0006
+  rotate: true
+  xy: 396, 794
+  size: 195, 417
+  orig: 267, 445
+  offset: 57, 14
+  index: -1
+pen_0007
+  rotate: true
+  xy: 396, 462
+  size: 178, 408
+  orig: 267, 445
+  offset: 74, 19
+  index: -1
+pen_0008
+  rotate: true
+  xy: 396, 160
+  size: 134, 384
+  orig: 267, 445
+  offset: 90, 38
+  index: -1
+quan_0005
+  rotate: true
+  xy: 396, 2
+  size: 156, 345
+  orig: 175, 425
+  offset: 14, 44
+  index: -1
+quan_0007
+  rotate: true
+  xy: 305, 296
+  size: 164, 379
+  orig: 175, 425
+  offset: 7, 28
+  index: -1
+quan_0009
+  rotate: true
+  xy: 396, 642
+  size: 150, 410
+  orig: 175, 425
+  offset: 5, 8
+  index: -1
+zhu1_0001
+  rotate: true
+  xy: 2, 66
+  size: 207, 392
+  orig: 223, 425
+  offset: 4, 23
+  index: -1
+zhu1_0003
+  rotate: false
+  xy: 806, 240
+  size: 188, 377
+  orig: 223, 425
+  offset: 7, 28
+  index: -1
+zhu1_0005
+  rotate: false
+  xy: 104, 622
+  size: 180, 367
+  orig: 223, 425
+  offset: 5, 10
+  index: -1
+zhu2_0001
+  rotate: true
+  xy: 2, 275
+  size: 714, 100
+  orig: 725, 110
+  offset: 5, 5
+  index: -1

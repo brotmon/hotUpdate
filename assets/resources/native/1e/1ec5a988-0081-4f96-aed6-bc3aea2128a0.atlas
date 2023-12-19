@@ -1,0 +1,27 @@
+
+YX017_1_weapon.png
+size: 170,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: false
+  xy: 2, 2
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+nu
+  rotate: false
+  xy: 2, 40
+  size: 148, 72
+  orig: 148, 73
+  offset: 0, 1
+  index: -1
+xian
+  rotate: false
+  xy: 152, 46
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1

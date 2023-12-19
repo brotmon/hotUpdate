@@ -1,0 +1,118 @@
+
+TX_UI_1001.png
+size: 620,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue/blue0001
+  rotate: true
+  xy: 64, 40
+  size: 213, 55
+  orig: 300, 85
+  offset: 45, 14
+  index: -1
+blue/blue0002
+  rotate: true
+  xy: 2, 18
+  size: 235, 60
+  orig: 300, 85
+  offset: 34, 11
+  index: -1
+blue/blue0003
+  rotate: true
+  xy: 121, 2
+  size: 255, 66
+  orig: 300, 85
+  offset: 24, 8
+  index: -1
+blue/blue0004
+  rotate: true
+  xy: 76, 259
+  size: 275, 72
+  orig: 300, 85
+  offset: 14, 5
+  index: -1
+blue/blue0005
+  rotate: true
+  xy: 2, 255
+  size: 279, 72
+  orig: 300, 85
+  offset: 12, 5
+  index: -1
+blue/blue0006
+  rotate: true
+  xy: 150, 335
+  size: 199, 51
+  orig: 300, 85
+  offset: 52, 16
+  index: -1
+blue/lizi0001
+  rotate: true
+  xy: 494, 75
+  size: 102, 105
+  orig: 215, 180
+  offset: 77, 5
+  index: -1
+blue/lizi0002
+  rotate: false
+  xy: 455, 179
+  size: 150, 110
+  orig: 215, 180
+  offset: 33, 5
+  index: -1
+blue/lizi0003
+  rotate: true
+  xy: 336, 379
+  size: 155, 111
+  orig: 215, 180
+  offset: 30, 10
+  index: -1
+blue/lizi0004
+  rotate: false
+  xy: 455, 291
+  size: 159, 118
+  orig: 215, 180
+  offset: 28, 14
+  index: -1
+blue/lizi0005
+  rotate: false
+  xy: 455, 411
+  size: 163, 123
+  orig: 215, 180
+  offset: 26, 19
+  index: -1
+blue/lizi0006
+  rotate: true
+  xy: 326, 189
+  size: 168, 127
+  orig: 215, 180
+  offset: 25, 24
+  index: -1
+blue/lizi0007
+  rotate: true
+  xy: 203, 359
+  size: 175, 131
+  orig: 215, 180
+  offset: 20, 27
+  index: -1
+blue/lizi0008
+  rotate: false
+  xy: 189, 11
+  size: 180, 134
+  orig: 215, 180
+  offset: 19, 31
+  index: -1
+blue/lizi0009
+  rotate: true
+  xy: 189, 147
+  size: 186, 135
+  orig: 215, 180
+  offset: 15, 34
+  index: -1
+blue/lizi0010
+  rotate: false
+  xy: 371, 46
+  size: 121, 131
+  orig: 215, 180
+  offset: 12, 38
+  index: -1

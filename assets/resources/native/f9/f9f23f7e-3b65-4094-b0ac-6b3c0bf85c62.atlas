@@ -1,0 +1,48 @@
+
+BOSS7.png
+size: 609,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: true
+  xy: 431, 160
+  size: 243, 176
+  orig: 243, 177
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 100
+  size: 427, 303
+  orig: 427, 303
+  offset: 0, 0
+  index: -1
+yanyou
+  rotate: false
+  xy: 431, 115
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+yanzuo
+  rotate: false
+  xy: 568, 117
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 12
+  size: 488, 86
+  orig: 490, 88
+  offset: 1, 1
+  index: -1
+zuiba
+  rotate: true
+  xy: 492, 2
+  size: 156, 74
+  orig: 689, 74
+  offset: 533, 0
+  index: -1

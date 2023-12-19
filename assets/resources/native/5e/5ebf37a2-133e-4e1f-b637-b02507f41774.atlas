@@ -1,0 +1,89 @@
+
+BOSS001_1.png
+size: 969,894
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Shadow
+  rotate: false
+  xy: 2, 746
+  size: 415, 146
+  orig: 419, 148
+  offset: 2, 1
+  index: -1
+bao_0001
+  rotate: true
+  xy: 746, 250
+  size: 242, 221
+  orig: 398, 356
+  offset: 82, 67
+  index: -1
+bao_0008
+  rotate: false
+  xy: 353, 149
+  size: 391, 343
+  orig: 430, 390
+  offset: 20, 28
+  index: -1
+bao_0010
+  rotate: true
+  xy: 2, 349
+  size: 395, 349
+  orig: 430, 390
+  offset: 18, 24
+  index: -1
+bao_0012
+  rotate: true
+  xy: 419, 494
+  size: 398, 356
+  orig: 430, 390
+  offset: 16, 19
+  index: -1
+bao_0014
+  rotate: true
+  xy: 2, 2
+  size: 345, 340
+  orig: 430, 390
+  offset: 30, 18
+  index: -1
+g1
+  rotate: true
+  xy: 746, 45
+  size: 203, 178
+  orig: 214, 187
+  offset: 6, 5
+  index: -1
+
+BOSS001_12.png
+size: 688,639
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_0002
+  rotate: false
+  xy: 362, 2
+  size: 310, 279
+  orig: 430, 390
+  offset: 64, 66
+  index: -1
+bao_0004
+  rotate: false
+  xy: 2, 3
+  size: 358, 307
+  orig: 430, 390
+  offset: 37, 47
+  index: -1
+bao_0006
+  rotate: false
+  xy: 2, 312
+  size: 380, 325
+  orig: 430, 390
+  offset: 26, 38
+  index: -1
+pao
+  rotate: true
+  xy: 384, 283
+  size: 354, 302
+  orig: 354, 302
+  offset: 0, 0
+  index: -1

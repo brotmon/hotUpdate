@@ -1,0 +1,55 @@
+
+BOSS13.png
+size: 738,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 5
+  size: 240, 485
+  orig: 240, 485
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 540, 7
+  size: 59, 65
+  orig: 60, 66
+  offset: 1, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 489, 2
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 636, 150
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: true
+  xy: 636, 20
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 489, 46
+  size: 199, 38
+  orig: 201, 40
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 529, 74
+  size: 171, 105
+  orig: 171, 108
+  offset: 0, 0
+  index: -1

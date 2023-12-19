@@ -1,0 +1,69 @@
+
+TX_UI_1100.png
+size: 981,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+144
+  rotate: false
+  xy: 2, 124
+  size: 720, 304
+  orig: 720, 409
+  offset: 0, 49
+  index: -1
+145
+  rotate: false
+  xy: 2, 40
+  size: 462, 82
+  orig: 462, 82
+  offset: 0, 0
+  index: -1
+145_1
+  rotate: true
+  xy: 810, 77
+  size: 351, 83
+  orig: 351, 83
+  offset: 0, 0
+  index: -1
+145_2
+  rotate: true
+  xy: 724, 75
+  size: 353, 84
+  orig: 353, 84
+  offset: 0, 0
+  index: -1
+145_3
+  rotate: true
+  xy: 895, 80
+  size: 348, 84
+  orig: 348, 84
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: false
+  xy: 2, 2
+  size: 167, 36
+  orig: 185, 40
+  offset: 9, 3
+  index: -1
+zi2
+  rotate: false
+  xy: 658, 9
+  size: 173, 64
+  orig: 175, 66
+  offset: 2, 1
+  index: -1
+zi3
+  rotate: false
+  xy: 466, 63
+  size: 190, 59
+  orig: 190, 60
+  offset: 0, 1
+  index: -1
+zi4
+  rotate: false
+  xy: 466, 9
+  size: 186, 52
+  orig: 186, 53
+  offset: 0, 1
+  index: -1

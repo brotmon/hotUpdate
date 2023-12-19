@@ -1,0 +1,27 @@
+
+BOSS0015_1.png
+size: 422,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_qt_00000
+  rotate: false
+  xy: 2, 2
+  size: 416, 133
+  orig: 434, 146
+  offset: 9, 3
+  index: -1
+TX_qt_00002
+  rotate: false
+  xy: 2, 137
+  size: 416, 134
+  orig: 434, 146
+  offset: 9, 2
+  index: -1
+TX_qt_00004
+  rotate: false
+  xy: 2, 273
+  size: 418, 134
+  orig: 434, 146
+  offset: 9, 2
+  index: -1

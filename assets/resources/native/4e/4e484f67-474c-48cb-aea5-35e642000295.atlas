@@ -1,0 +1,13 @@
+
+BOSS0012_1.png
+size: 223,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stone1
+  rotate: false
+  xy: 2, 2
+  size: 219, 264
+  orig: 219, 264
+  offset: 0, 0
+  index: -1

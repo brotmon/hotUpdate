@@ -1,0 +1,265 @@
+
+LD_ZD_0017.png
+size: 947,899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 639, 426
+  size: 193, 136
+  orig: 194, 188
+  offset: 1, 17
+  index: -1
+4
+  rotate: false
+  xy: 2, 207
+  size: 193, 209
+  orig: 194, 229
+  offset: 1, 17
+  index: -1
+bingz0002
+  rotate: true
+  xy: 379, 550
+  size: 103, 35
+  orig: 300, 110
+  offset: 90, 15
+  index: -1
+bingz0003
+  rotate: true
+  xy: 592, 437
+  size: 109, 43
+  orig: 300, 110
+  offset: 87, 13
+  index: -1
+bingz0004
+  rotate: true
+  xy: 649, 10
+  size: 113, 63
+  orig: 300, 110
+  offset: 85, 12
+  index: -1
+bingz0005
+  rotate: false
+  xy: 628, 125
+  size: 117, 83
+  orig: 300, 110
+  offset: 83, 11
+  index: -1
+bingz0006
+  rotate: true
+  xy: 747, 87
+  size: 127, 82
+  orig: 300, 110
+  offset: 81, 11
+  index: -1
+bingz0007
+  rotate: true
+  xy: 851, 147
+  size: 152, 82
+  orig: 300, 110
+  offset: 70, 10
+  index: -1
+bingz0008
+  rotate: false
+  xy: 195, 12
+  size: 173, 82
+  orig: 300, 110
+  offset: 55, 9
+  index: -1
+bingz0009
+  rotate: true
+  xy: 851, 301
+  size: 191, 82
+  orig: 300, 110
+  offset: 47, 8
+  index: -1
+bingz0011
+  rotate: true
+  xy: 740, 216
+  size: 208, 84
+  orig: 300, 110
+  offset: 35, 8
+  index: -1
+bingz0014
+  rotate: true
+  xy: 838, 645
+  size: 252, 89
+  orig: 300, 110
+  offset: 21, 8
+  index: -1
+bingz0015
+  rotate: true
+  xy: 199, 391
+  size: 257, 88
+  orig: 300, 110
+  offset: 16, 8
+  index: -1
+bingz0016
+  rotate: true
+  xy: 289, 380
+  size: 273, 88
+  orig: 300, 110
+  offset: 5, 8
+  index: -1
+bingz0017
+  rotate: true
+  xy: 197, 101
+  size: 288, 88
+  orig: 300, 110
+  offset: 5, 8
+  index: -1
+bingz0018
+  rotate: true
+  xy: 197, 101
+  size: 288, 88
+  orig: 300, 110
+  offset: 5, 8
+  index: -1
+bingz0019
+  rotate: true
+  xy: 287, 96
+  size: 282, 88
+  orig: 300, 110
+  offset: 11, 8
+  index: -1
+bingz0020
+  rotate: true
+  xy: 377, 103
+  size: 275, 79
+  orig: 300, 110
+  offset: 18, 9
+  index: -1
+bingz0021
+  rotate: true
+  xy: 458, 122
+  size: 263, 64
+  orig: 300, 110
+  offset: 25, 9
+  index: -1
+bingz0022
+  rotate: true
+  xy: 524, 135
+  size: 250, 55
+  orig: 300, 110
+  offset: 35, 10
+  index: -1
+bingz0023
+  rotate: true
+  xy: 581, 142
+  size: 243, 45
+  orig: 300, 110
+  offset: 37, 11
+  index: -1
+bingz0024
+  rotate: true
+  xy: 826, 231
+  size: 193, 23
+  orig: 300, 110
+  offset: 40, 18
+  index: -1
+bingzha
+  rotate: false
+  xy: 831, 95
+  size: 43, 50
+  orig: 50, 60
+  offset: 3, 6
+  index: -1
+buff_fx_bingdong03
+  rotate: false
+  xy: 417, 706
+  size: 220, 191
+  orig: 250, 250
+  offset: 12, 29
+  index: -1
+effects_00013
+  rotate: true
+  xy: 628, 210
+  size: 214, 110
+  orig: 218, 114
+  offset: 0, 1
+  index: -1
+guangbo
+  rotate: true
+  xy: 370, 2
+  size: 92, 68
+  orig: 100, 80
+  offset: 5, 7
+  index: -1
+xxdd_0000
+  rotate: false
+  xy: 524, 2
+  size: 123, 121
+  orig: 124, 124
+  offset: 0, 2
+  index: -1
+zhalie0001
+  rotate: false
+  xy: 837, 494
+  size: 108, 149
+  orig: 230, 270
+  offset: 56, 46
+  index: -1
+zhalie0002
+  rotate: true
+  xy: 639, 564
+  size: 139, 196
+  orig: 230, 270
+  offset: 49, 22
+  index: -1
+zhalie0003
+  rotate: true
+  xy: 379, 387
+  size: 159, 211
+  orig: 230, 270
+  offset: 43, 14
+  index: -1
+zhalie0004
+  rotate: true
+  xy: 417, 548
+  size: 156, 220
+  orig: 230, 270
+  offset: 46, 11
+  index: -1
+zhalie0005
+  rotate: false
+  xy: 2, 418
+  size: 195, 230
+  orig: 230, 270
+  offset: 10, 6
+  index: -1
+zhalie0006
+  rotate: false
+  xy: 2, 650
+  size: 205, 247
+  orig: 230, 270
+  offset: 10, 1
+  index: -1
+zhalie0007
+  rotate: false
+  xy: 209, 655
+  size: 206, 242
+  orig: 230, 270
+  offset: 10, 11
+  index: -1
+zhalie0008
+  rotate: false
+  xy: 639, 705
+  size: 197, 192
+  orig: 230, 270
+  offset: 10, 13
+  index: -1
+zhalie0009
+  rotate: false
+  xy: 2, 2
+  size: 191, 203
+  orig: 230, 270
+  offset: 11, 7
+  index: -1
+zhalie0010
+  rotate: false
+  xy: 714, 23
+  size: 169, 62
+  orig: 230, 270
+  offset: 33, 27
+  index: -1

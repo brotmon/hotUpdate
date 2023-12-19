@@ -1,0 +1,20 @@
+
+YX004_weapon.png
+size: 168,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mofashu
+  rotate: false
+  xy: 2, 2
+  size: 104, 97
+  orig: 106, 99
+  offset: 1, 1
+  index: -1
+texiao1
+  rotate: false
+  xy: 108, 41
+  size: 58, 58
+  orig: 76, 76
+  offset: 9, 5
+  index: -1

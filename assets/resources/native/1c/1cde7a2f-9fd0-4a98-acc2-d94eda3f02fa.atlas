@@ -1,0 +1,34 @@
+
+TX_UI_1004.png
+size: 404,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_00000
+  rotate: false
+  xy: 2, 2
+  size: 345, 74
+  orig: 390, 130
+  offset: 32, 29
+  index: -1
+3_00020
+  rotate: false
+  xy: 377, 50
+  size: 25, 26
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+4_00041
+  rotate: false
+  xy: 349, 50
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+5_00029
+  rotate: false
+  xy: 349, 22
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

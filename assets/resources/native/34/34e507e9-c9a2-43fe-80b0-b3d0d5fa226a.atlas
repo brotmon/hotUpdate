@@ -1,0 +1,303 @@
+
+YH_ZD_0034.png
+size: 1011,975
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_01
+  rotate: true
+  xy: 2, 892
+  size: 81, 85
+  orig: 700, 700
+  offset: 309, 309
+  index: -1
+1_03
+  rotate: true
+  xy: 89, 882
+  size: 91, 95
+  orig: 700, 700
+  offset: 304, 304
+  index: -1
+1_05
+  rotate: true
+  xy: 186, 878
+  size: 95, 99
+  orig: 700, 700
+  offset: 302, 302
+  index: -1
+1_07
+  rotate: true
+  xy: 287, 831
+  size: 142, 149
+  orig: 700, 700
+  offset: 278, 277
+  index: -1
+1_09
+  rotate: true
+  xy: 438, 822
+  size: 151, 158
+  orig: 700, 700
+  offset: 274, 273
+  index: -1
+1_11
+  rotate: true
+  xy: 598, 820
+  size: 153, 161
+  orig: 700, 700
+  offset: 273, 271
+  index: -1
+1_13
+  rotate: true
+  xy: 761, 820
+  size: 153, 161
+  orig: 700, 700
+  offset: 273, 271
+  index: -1
+effects_0009
+  rotate: true
+  xy: 305, 245
+  size: 193, 278
+  orig: 220, 350
+  offset: 17, 18
+  index: -1
+effects_0010
+  rotate: true
+  xy: 2, 685
+  size: 191, 258
+  orig: 220, 350
+  offset: 19, 27
+  index: -1
+effects_0011
+  rotate: true
+  xy: 216, 452
+  size: 189, 287
+  orig: 220, 350
+  offset: 20, 13
+  index: -1
+effects_0012
+  rotate: true
+  xy: 564, 633
+  size: 185, 297
+  orig: 220, 350
+  offset: 20, 16
+  index: -1
+effects_0013
+  rotate: true
+  xy: 262, 643
+  size: 177, 300
+  orig: 220, 350
+  offset: 20, 25
+  index: -1
+effects_0014
+  rotate: true
+  xy: 2, 258
+  size: 192, 301
+  orig: 220, 350
+  offset: 20, 34
+  index: -1
+effects_0015
+  rotate: true
+  xy: 505, 440
+  size: 191, 273
+  orig: 220, 350
+  offset: 21, 22
+  index: -1
+effects_0016
+  rotate: true
+  xy: 585, 239
+  size: 195, 275
+  orig: 220, 350
+  offset: 17, 29
+  index: -1
+effects_0017
+  rotate: true
+  xy: 2, 61
+  size: 195, 275
+  orig: 220, 350
+  offset: 17, 36
+  index: -1
+effects_0018
+  rotate: true
+  xy: 2, 488
+  size: 195, 212
+  orig: 220, 350
+  offset: 17, 45
+  index: -1
+effects_0019
+  rotate: true
+  xy: 780, 436
+  size: 195, 229
+  orig: 220, 350
+  offset: 17, 41
+  index: -1
+effects_0020
+  rotate: true
+  xy: 279, 48
+  size: 195, 272
+  orig: 220, 350
+  offset: 17, 9
+  index: -1
+effects_0022
+  rotate: true
+  xy: 553, 2
+  size: 235, 237
+  orig: 290, 290
+  offset: 28, 26
+  index: -1
+
+YH_ZD_00342.png
+size: 849,821
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0001
+  rotate: false
+  xy: 270, 40
+  size: 267, 267
+  orig: 320, 320
+  offset: 27, 28
+  index: -1
+effects_0002
+  rotate: false
+  xy: 267, 309
+  size: 278, 258
+  orig: 320, 320
+  offset: 21, 27
+  index: -1
+effects_0003
+  rotate: false
+  xy: 264, 569
+  size: 291, 250
+  orig: 320, 320
+  offset: 14, 24
+  index: -1
+effects_0004
+  rotate: false
+  xy: 547, 302
+  size: 278, 260
+  orig: 320, 320
+  offset: 21, 25
+  index: -1
+effects_0005
+  rotate: false
+  xy: 2, 41
+  size: 266, 266
+  orig: 320, 320
+  offset: 27, 25
+  index: -1
+effects_0006
+  rotate: true
+  xy: 557, 564
+  size: 255, 263
+  orig: 320, 320
+  offset: 32, 32
+  index: -1
+effects_0007
+  rotate: true
+  xy: 2, 575
+  size: 244, 260
+  orig: 320, 320
+  offset: 37, 33
+  index: -1
+effects_0008
+  rotate: true
+  xy: 2, 312
+  size: 255, 263
+  orig: 320, 320
+  offset: 32, 29
+  index: -1
+effects_0021
+  rotate: false
+  xy: 539, 2
+  size: 308, 298
+  orig: 360, 360
+  offset: 22, 34
+  index: -1
+
+YH_ZD_00343.png
+size: 1009,757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_19
+  rotate: false
+  xy: 2, 100
+  size: 407, 328
+  orig: 700, 700
+  offset: 142, 191
+  index: -1
+1_22
+  rotate: false
+  xy: 411, 2
+  size: 425, 347
+  orig: 700, 700
+  offset: 136, 183
+  index: -1
+1_25
+  rotate: true
+  xy: 657, 351
+  size: 404, 350
+  orig: 700, 700
+  offset: 146, 181
+  index: -1
+1_27
+  rotate: true
+  xy: 2, 436
+  size: 319, 322
+  orig: 700, 700
+  offset: 191, 188
+  index: -1
+1_29
+  rotate: false
+  xy: 326, 430
+  size: 329, 325
+  orig: 700, 700
+  offset: 186, 190
+  index: -1
+
+YH_ZD_00344.png
+size: 849,730
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_15
+  rotate: false
+  xy: 2, 5
+  size: 386, 372
+  orig: 700, 700
+  offset: 156, 162
+  index: -1
+1_17
+  rotate: false
+  xy: 390, 2
+  size: 389, 372
+  orig: 700, 700
+  offset: 153, 162
+  index: -1
+1_21
+  rotate: false
+  xy: 2, 379
+  size: 421, 349
+  orig: 700, 700
+  offset: 137, 181
+  index: -1
+1_23
+  rotate: false
+  xy: 425, 376
+  size: 422, 352
+  orig: 700, 700
+  offset: 139, 180
+  index: -1
+
+YH_ZD_00345.png
+size: 664,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_16
+  rotate: false
+  xy: 2, 2
+  size: 660, 636
+  orig: 700, 700
+  offset: 19, 28
+  index: -1

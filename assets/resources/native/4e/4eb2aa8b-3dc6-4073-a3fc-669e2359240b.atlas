@@ -1,0 +1,27 @@
+
+YX019_3_weapon.png
+size: 389,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao
+  rotate: false
+  xy: 316, 57
+  size: 71, 71
+  orig: 77, 76
+  offset: 3, 3
+  index: -1
+texiao1
+  rotate: false
+  xy: 316, 130
+  size: 71, 71
+  orig: 77, 76
+  offset: 3, 3
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 2
+  size: 312, 199
+  orig: 312, 201
+  offset: 0, 1
+  index: -1

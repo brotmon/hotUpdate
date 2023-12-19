@@ -1,0 +1,41 @@
+
+BOSS009_2.png
+size: 467,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 218, 71
+  size: 48, 193
+  orig: 50, 195
+  offset: 1, 1
+  index: -1
+zha1
+  rotate: false
+  xy: 285, 11
+  size: 140, 54
+  orig: 150, 60
+  offset: 5, 4
+  index: -1
+zha2
+  rotate: false
+  xy: 413, 67
+  size: 52, 52
+  orig: 60, 60
+  offset: 3, 4
+  index: -1
+zha3
+  rotate: false
+  xy: 218, 4
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+zha4
+  rotate: false
+  xy: 2, 2
+  size: 214, 117
+  orig: 220, 120
+  offset: 4, 0
+  index: -1

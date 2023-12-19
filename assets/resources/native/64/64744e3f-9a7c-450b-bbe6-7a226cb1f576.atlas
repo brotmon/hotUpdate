@@ -1,0 +1,55 @@
+
+BOSS008_1.png
+size: 379,290
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fxpa_01
+  rotate: true
+  xy: 2, 142
+  size: 146, 168
+  orig: 217, 211
+  offset: 46, 23
+  index: -1
+fxpa_02_1
+  rotate: true
+  xy: 172, 71
+  size: 217, 81
+  orig: 218, 82
+  offset: 0, 0
+  index: -1
+fxpa_02_2
+  rotate: false
+  xy: 130, 2
+  size: 239, 67
+  orig: 240, 68
+  offset: 1, 1
+  index: -1
+fxpa_02_3
+  rotate: true
+  xy: 317, 105
+  size: 183, 60
+  orig: 184, 61
+  offset: 1, 1
+  index: -1
+fxpa_02_4
+  rotate: true
+  xy: 255, 104
+  size: 184, 60
+  orig: 185, 60
+  offset: 0, 0
+  index: -1
+fxpa_02_5
+  rotate: false
+  xy: 2, 78
+  size: 167, 62
+  orig: 168, 62
+  offset: 0, 0
+  index: -1
+fxpa_02_6
+  rotate: false
+  xy: 2, 18
+  size: 126, 58
+  orig: 126, 59
+  offset: 0, 0
+  index: -1

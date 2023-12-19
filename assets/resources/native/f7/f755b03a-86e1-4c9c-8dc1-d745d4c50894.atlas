@@ -1,0 +1,146 @@
+
+YX015_1.png
+size: 669,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JIAOYOU
+  rotate: true
+  xy: 2, 2
+  size: 30, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+JIAOZUO
+  rotate: true
+  xy: 188, 6
+  size: 33, 46
+  orig: 57, 46
+  offset: 24, 0
+  index: -1
+LIAN
+  rotate: true
+  xy: 311, 120
+  size: 145, 143
+  orig: 145, 144
+  offset: 0, 1
+  index: -1
+beidai
+  rotate: false
+  xy: 248, 13
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 156, 99
+  size: 166, 153
+  orig: 200, 163
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: true
+  xy: 444, 37
+  size: 81, 121
+  orig: 81, 121
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 205, 43
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 592, 72
+  size: 74, 125
+  orig: 79, 125
+  offset: 0, 0
+  index: -1
+guantou
+  rotate: true
+  xy: 456, 126
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: true
+  xy: 574, 77
+  size: 47, 12
+  orig: 52, 13
+  offset: 4, 1
+  index: -1
+meimao2
+  rotate: true
+  xy: 169, 2
+  size: 37, 17
+  orig: 38, 19
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 366, 15
+  size: 103, 76
+  orig: 103, 76
+  offset: 0, 0
+  index: -1
+shilaimu
+  rotate: false
+  xy: 156, 41
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+sidai1
+  rotate: true
+  xy: 311, 101
+  size: 17, 53
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: true
+  xy: 72, 5
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 34
+  size: 152, 231
+  orig: 152, 231
+  offset: 0, 0
+  index: -1
+wuqi2
+  rotate: false
+  xy: 592, 199
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+yanyou
+  rotate: true
+  xy: 45, 4
+  size: 28, 25
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+yanzuo
+  rotate: false
+  xy: 124, 5
+  size: 43, 27
+  orig: 47, 39
+  offset: 3, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 444, 10
+  size: 128, 25
+  orig: 130, 27
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+YX012_2_weapon.png
+size: 613,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+peijian1
+  rotate: true
+  xy: 551, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 23
+  size: 37, 547
+  orig: 37, 547
+  offset: 0, 0
+  index: -1

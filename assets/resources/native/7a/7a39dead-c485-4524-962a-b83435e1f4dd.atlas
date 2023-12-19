@@ -1,0 +1,48 @@
+
+BOSS0016_1.png
+size: 374,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_ljf_00000
+  rotate: false
+  xy: 187, 292
+  size: 184, 135
+  orig: 206, 161
+  offset: 9, 13
+  index: -1
+TX_ljf_00002
+  rotate: false
+  xy: 2, 152
+  size: 182, 141
+  orig: 206, 161
+  offset: 11, 8
+  index: -1
+TX_ljf_00004
+  rotate: false
+  xy: 2, 4
+  size: 179, 146
+  orig: 206, 161
+  offset: 16, 3
+  index: -1
+TX_ljf_00006
+  rotate: false
+  xy: 183, 2
+  size: 188, 146
+  orig: 206, 161
+  offset: 9, 4
+  index: -1
+TX_ljf_00008
+  rotate: false
+  xy: 186, 150
+  size: 186, 140
+  orig: 206, 161
+  offset: 9, 8
+  index: -1
+TX_ljf_00010
+  rotate: false
+  xy: 2, 295
+  size: 183, 132
+  orig: 206, 161
+  offset: 11, 9
+  index: -1

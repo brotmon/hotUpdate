@@ -1,0 +1,13 @@
+
+YX001_2_weapon.png
+size: 257,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JIAN
+  rotate: false
+  xy: 2, 2
+  size: 253, 113
+  orig: 253, 115
+  offset: 0, 1
+  index: -1

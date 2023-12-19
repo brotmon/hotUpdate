@@ -1,0 +1,146 @@
+
+YX017_2.png
+size: 676,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FA1
+  rotate: true
+  xy: 431, 125
+  size: 145, 138
+  orig: 145, 166
+  offset: 0, 1
+  index: -1
+FA2
+  rotate: false
+  xy: 411, 10
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+FA3
+  rotate: true
+  xy: 571, 67
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+JIAOYOU
+  rotate: true
+  xy: 79, 5
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+JIAOZUO
+  rotate: true
+  xy: 31, 3
+  size: 33, 46
+  orig: 57, 46
+  offset: 24, 0
+  index: -1
+LIAN
+  rotate: true
+  xy: 285, 125
+  size: 145, 144
+  orig: 145, 144
+  offset: 0, 0
+  index: -1
+beishi
+  rotate: true
+  xy: 2, 38
+  size: 232, 207
+  orig: 234, 209
+  offset: 1, 1
+  index: -1
+jian
+  rotate: false
+  xy: 523, 2
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 122, 6
+  size: 42, 30
+  orig: 48, 30
+  offset: 5, 0
+  index: -1
+meimao2
+  rotate: true
+  xy: 2, 2
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: true
+  xy: 256, 10
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+nu
+  rotate: true
+  xy: 211, 72
+  size: 198, 72
+  orig: 198, 73
+  offset: 0, 1
+  index: -1
+pifeng
+  rotate: true
+  xy: 315, 2
+  size: 121, 94
+  orig: 121, 94
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 571, 188
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 571, 140
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 238, 5
+  size: 16, 65
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+yanyou
+  rotate: true
+  xy: 166, 8
+  size: 28, 25
+  orig: 30, 26
+  offset: 1, 1
+  index: -1
+yanzuo
+  rotate: false
+  xy: 193, 9
+  size: 43, 27
+  orig: 47, 39
+  offset: 3, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 497, 10
+  size: 113, 24
+  orig: 113, 25
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 523, 40
+  size: 128, 25
+  orig: 130, 27
+  offset: 1, 1
+  index: -1

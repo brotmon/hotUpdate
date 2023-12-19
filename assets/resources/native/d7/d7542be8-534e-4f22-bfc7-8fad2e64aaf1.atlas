@@ -1,0 +1,27 @@
+
+YX013_1_weapon.png
+size: 421,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LANGTOU
+  rotate: true
+  xy: 2, 2
+  size: 325, 352
+  orig: 332, 358
+  offset: 2, 3
+  index: -1
+texiao1
+  rotate: false
+  xy: 356, 204
+  size: 58, 58
+  orig: 76, 76
+  offset: 9, 5
+  index: -1
+wuqi
+  rotate: false
+  xy: 356, 264
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1

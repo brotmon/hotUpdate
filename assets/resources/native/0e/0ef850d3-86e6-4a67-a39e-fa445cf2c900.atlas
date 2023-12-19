@@ -1,0 +1,118 @@
+
+TX_UI_1013.png
+size: 906,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+70_1
+  rotate: false
+  xy: 307, 264
+  size: 597, 143
+  orig: 597, 143
+  offset: 0, 0
+  index: -1
+70_102
+  rotate: false
+  xy: 307, 119
+  size: 595, 143
+  orig: 597, 143
+  offset: 1, 0
+  index: -1
+71_1
+  rotate: false
+  xy: 307, 2
+  size: 226, 115
+  orig: 229, 119
+  offset: 1, 2
+  index: -1
+g1
+  rotate: false
+  xy: 649, 64
+  size: 54, 53
+  orig: 65, 80
+  offset: 6, 7
+  index: -1
+g10
+  rotate: false
+  xy: 111, 4
+  size: 54, 42
+  orig: 65, 80
+  offset: 6, 7
+  index: -1
+g11
+  rotate: false
+  xy: 56, 3
+  size: 53, 43
+  orig: 65, 80
+  offset: 7, 10
+  index: -1
+g12
+  rotate: false
+  xy: 2, 2
+  size: 52, 44
+  orig: 65, 80
+  offset: 7, 12
+  index: -1
+g2
+  rotate: false
+  xy: 705, 68
+  size: 54, 49
+  orig: 65, 80
+  offset: 6, 9
+  index: -1
+g3
+  rotate: true
+  xy: 131, 48
+  size: 54, 58
+  orig: 65, 80
+  offset: 6, 5
+  index: -1
+g4
+  rotate: true
+  xy: 191, 48
+  size: 54, 57
+  orig: 65, 80
+  offset: 6, 9
+  index: -1
+g5
+  rotate: false
+  xy: 250, 46
+  size: 54, 56
+  orig: 65, 80
+  offset: 6, 14
+  index: -1
+g6
+  rotate: true
+  xy: 2, 48
+  size: 54, 66
+  orig: 65, 80
+  offset: 6, 7
+  index: -1
+g7
+  rotate: true
+  xy: 535, 63
+  size: 54, 55
+  orig: 65, 80
+  offset: 6, 5
+  index: -1
+g8
+  rotate: true
+  xy: 592, 63
+  size: 54, 55
+  orig: 65, 80
+  offset: 6, 8
+  index: -1
+g9
+  rotate: true
+  xy: 70, 48
+  size: 54, 59
+  orig: 65, 80
+  offset: 6, 5
+  index: -1
+zig
+  rotate: false
+  xy: 2, 104
+  size: 303, 303
+  orig: 307, 307
+  offset: 2, 2
+  index: -1

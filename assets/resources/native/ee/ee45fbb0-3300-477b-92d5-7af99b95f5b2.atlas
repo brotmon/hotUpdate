@@ -1,0 +1,180 @@
+
+BOSS6.png
+size: 1004,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huzi1
+  rotate: false
+  xy: 347, 815
+  size: 107, 87
+  orig: 107, 157
+  offset: 0, 70
+  index: -1
+huzi2
+  rotate: false
+  xy: 502, 902
+  size: 120, 65
+  orig: 120, 92
+  offset: 0, 24
+  index: -1
+huzi3
+  rotate: false
+  xy: 2, 944
+  size: 75, 23
+  orig: 77, 25
+  offset: 1, 1
+  index: -1
+jiao1
+  rotate: false
+  xy: 584, 606
+  size: 242, 163
+  orig: 409, 163
+  offset: 167, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 202, 830
+  size: 143, 73
+  orig: 176, 73
+  offset: 33, 0
+  index: -1
+jiao3
+  rotate: false
+  xy: 219, 905
+  size: 128, 62
+  orig: 128, 62
+  offset: 0, 0
+  index: -1
+jiao4
+  rotate: true
+  xy: 828, 548
+  size: 221, 174
+  orig: 396, 174
+  offset: 175, 0
+  index: -1
+jiao5
+  rotate: false
+  xy: 829, 899
+  size: 128, 68
+  orig: 171, 72
+  offset: 43, 4
+  index: -1
+jiao6
+  rotate: false
+  xy: 75, 835
+  size: 125, 75
+  orig: 125, 75
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 228, 311
+  size: 527, 293
+  orig: 527, 293
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: false
+  xy: 133, 912
+  size: 84, 55
+  orig: 86, 57
+  offset: 1, 1
+  index: -1
+shou1
+  rotate: true
+  xy: 737, 771
+  size: 126, 159
+  orig: 151, 276
+  offset: 25, 117
+  index: -1
+shou2
+  rotate: true
+  xy: 349, 904
+  size: 63, 151
+  orig: 63, 178
+  offset: 0, 27
+  index: -1
+shou3
+  rotate: false
+  xy: 747, 901
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: false
+  xy: 456, 781
+  size: 133, 119
+  orig: 133, 119
+  offset: 0, 0
+  index: -1
+shou5
+  rotate: true
+  xy: 624, 902
+  size: 65, 121
+  orig: 65, 121
+  offset: 0, 0
+  index: -1
+shou6
+  rotate: true
+  xy: 2, 872
+  size: 70, 71
+  orig: 72, 73
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 473
+  size: 224, 202
+  orig: 226, 204
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 2
+  size: 556, 307
+  orig: 556, 307
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 591, 777
+  size: 144, 123
+  orig: 144, 123
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 79, 927
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 677
+  size: 580, 102
+  orig: 582, 104
+  offset: 1, 1
+  index: -1
+
+BOSS62.png
+size: 897,691
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 2, 2
+  size: 463, 687
+  orig: 463, 687
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 467, 42
+  size: 428, 647
+  orig: 428, 647
+  offset: 0, 0
+  index: -1

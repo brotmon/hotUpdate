@@ -1,0 +1,104 @@
+
+BOSS22.png
+size: 981,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi
+  rotate: false
+  xy: 801, 99
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+gong
+  rotate: true
+  xy: 472, 47
+  size: 36, 211
+  orig: 36, 211
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 518, 14
+  size: 227, 31
+  orig: 228, 31
+  offset: 0, 0
+  index: -1
+jiantong
+  rotate: true
+  xy: 306, 21
+  size: 126, 164
+  orig: 126, 164
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 873, 67
+  size: 80, 106
+  orig: 80, 106
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 685, 56
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 685, 56
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 153, 8
+  size: 151, 139
+  orig: 151, 139
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 710, 89
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 873, 2
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 3
+  size: 144, 149
+  orig: 144, 149
+  offset: 0, 0
+  index: -1
+weibo
+  rotate: false
+  xy: 747, 18
+  size: 124, 69
+  orig: 124, 69
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 306, 12
+  size: 7, 210
+  orig: 7, 210
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 472, 85
+  size: 236, 62
+  orig: 238, 64
+  offset: 1, 1
+  index: -1

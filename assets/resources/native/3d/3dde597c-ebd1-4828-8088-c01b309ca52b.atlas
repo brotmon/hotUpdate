@@ -1,0 +1,125 @@
+
+YX017_1.png
+size: 722,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FA1
+  rotate: true
+  xy: 148, 8
+  size: 145, 138
+  orig: 145, 166
+  offset: 0, 1
+  index: -1
+FA2
+  rotate: false
+  xy: 362, 40
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+FA3
+  rotate: false
+  xy: 532, 56
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+JIAOYOU
+  rotate: false
+  xy: 607, 60
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+JIAOZUO
+  rotate: false
+  xy: 607, 105
+  size: 34, 48
+  orig: 59, 48
+  offset: 25, 0
+  index: -1
+LIAN
+  rotate: true
+  xy: 2, 8
+  size: 145, 144
+  orig: 147, 146
+  offset: 1, 1
+  index: -1
+jian
+  rotate: false
+  xy: 362, 2
+  size: 127, 36
+  orig: 127, 36
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: true
+  xy: 642, 61
+  size: 42, 30
+  orig: 50, 32
+  offset: 6, 1
+  index: -1
+meimao2
+  rotate: true
+  xy: 672, 119
+  size: 34, 27
+  orig: 36, 29
+  offset: 1, 1
+  index: -1
+nu
+  rotate: true
+  xy: 288, 5
+  size: 148, 72
+  orig: 148, 73
+  offset: 0, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 448, 50
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 491, 2
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 701, 88
+  size: 16, 65
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+yanyou
+  rotate: true
+  xy: 674, 58
+  size: 28, 25
+  orig: 32, 28
+  offset: 2, 2
+  index: -1
+yanzuo
+  rotate: true
+  xy: 643, 110
+  size: 43, 27
+  orig: 49, 41
+  offset: 4, 1
+  index: -1
+yaodai1
+  rotate: false
+  xy: 592, 7
+  size: 113, 20
+  orig: 115, 23
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 592, 29
+  size: 128, 25
+  orig: 130, 27
+  offset: 1, 1
+  index: -1

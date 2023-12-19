@@ -1,0 +1,48 @@
+
+BOSS0022_2.png
+size: 610,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lieyanbaoxi/huojian0001
+  rotate: false
+  xy: 2, 3
+  size: 194, 82
+  orig: 233, 120
+  offset: 2, 20
+  index: -1
+lieyanbaoxi/huojian0002
+  rotate: false
+  xy: 202, 86
+  size: 202, 77
+  orig: 233, 120
+  offset: 3, 23
+  index: -1
+lieyanbaoxi/huojian0003
+  rotate: false
+  xy: 2, 87
+  size: 198, 76
+  orig: 233, 120
+  offset: 4, 24
+  index: -1
+lieyanbaoxi/huojian0004
+  rotate: false
+  xy: 406, 86
+  size: 202, 77
+  orig: 233, 120
+  offset: 2, 23
+  index: -1
+lieyanbaoxi/huojian0005
+  rotate: false
+  xy: 198, 2
+  size: 198, 82
+  orig: 233, 120
+  offset: 2, 21
+  index: -1
+lieyanbaoxi/huojian0006
+  rotate: false
+  xy: 398, 2
+  size: 202, 82
+  orig: 233, 120
+  offset: 1, 22
+  index: -1

@@ -1,0 +1,20 @@
+
+BOSS0023_1.png
+size: 279,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guang
+  rotate: true
+  xy: 2, 2
+  size: 215, 224
+  orig: 215, 224
+  offset: 0, 0
+  index: -1
+images/klfs_fx_kl01
+  rotate: false
+  xy: 228, 36
+  size: 49, 181
+  orig: 49, 181
+  offset: 0, 0
+  index: -1

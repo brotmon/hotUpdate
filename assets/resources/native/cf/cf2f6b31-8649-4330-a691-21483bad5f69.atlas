@@ -1,0 +1,27 @@
+
+YX015_weapon.png
+size: 268,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sidai1
+  rotate: false
+  xy: 237, 47
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+sidai2
+  rotate: false
+  xy: 237, 104
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 2, 2
+  size: 154, 233
+  orig: 154, 233
+  offset: 0, 0
+  index: -1

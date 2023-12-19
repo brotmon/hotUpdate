@@ -1,0 +1,20 @@
+
+YX006_3_weapon.png
+size: 420,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao1
+  rotate: false
+  xy: 360, 142
+  size: 58, 58
+  orig: 67, 68
+  offset: 5, 5
+  index: -1
+wuqi
+  rotate: false
+  xy: 2, 2
+  size: 356, 198
+  orig: 356, 199
+  offset: 0, 0
+  index: -1

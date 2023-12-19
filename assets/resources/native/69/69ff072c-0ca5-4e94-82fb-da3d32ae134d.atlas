@@ -1,0 +1,139 @@
+
+BOSS17.png
+size: 914,890
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0028
+  rotate: true
+  xy: 455, 360
+  size: 299, 196
+  orig: 430, 276
+  offset: 119, 21
+  index: -1
+effects_0029
+  rotate: true
+  xy: 238, 249
+  size: 334, 215
+  orig: 430, 276
+  offset: 83, 18
+  index: -1
+effects_0030
+  rotate: false
+  xy: 374, 661
+  size: 369, 227
+  orig: 430, 276
+  offset: 50, 18
+  index: -1
+effects_0031
+  rotate: true
+  xy: 2, 185
+  size: 398, 234
+  orig: 430, 276
+  offset: 18, 19
+  index: -1
+fa1
+  rotate: false
+  xy: 2, 585
+  size: 370, 303
+  orig: 370, 303
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 448, 9
+  size: 251, 225
+  orig: 251, 225
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 2, 7
+  size: 176, 231
+  orig: 176, 231
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 823, 347
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 720, 483
+  size: 156, 132
+  orig: 156, 174
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 745, 617
+  size: 158, 92
+  orig: 158, 92
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 455, 236
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: true
+  xy: 745, 711
+  size: 177, 167
+  orig: 177, 167
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 701, 170
+  size: 130, 115
+  orig: 130, 115
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 701, 38
+  size: 130, 115
+  orig: 130, 115
+  offset: 0, 0
+  index: -1
+shiti
+  rotate: true
+  xy: 238, 2
+  size: 245, 208
+  orig: 245, 208
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 374, 606
+  size: 78, 53
+  orig: 78, 55
+  offset: 0, 2
+  index: -1
+yan2
+  rotate: false
+  xy: 823, 292
+  size: 59, 53
+  orig: 59, 55
+  offset: 0, 2
+  index: -1
+yinying
+  rotate: true
+  xy: 653, 318
+  size: 341, 65
+  orig: 343, 67
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 720, 302
+  size: 179, 101
+  orig: 179, 104
+  offset: 0, 0
+  index: -1

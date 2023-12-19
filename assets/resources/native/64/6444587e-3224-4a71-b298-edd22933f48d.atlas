@@ -1,0 +1,346 @@
+
+YH_ZD_0058.png
+size: 1022,889
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_00
+  rotate: false
+  xy: 2, 886
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/1_01
+  rotate: true
+  xy: 162, 806
+  size: 81, 120
+  orig: 425, 494
+  offset: 125, 305
+  index: -1
+images/1_02
+  rotate: true
+  xy: 284, 806
+  size: 81, 120
+  orig: 425, 494
+  offset: 139, 280
+  index: -1
+images/1_03
+  rotate: true
+  xy: 555, 804
+  size: 83, 133
+  orig: 425, 494
+  offset: 151, 261
+  index: -1
+images/1_04
+  rotate: true
+  xy: 690, 804
+  size: 83, 134
+  orig: 425, 494
+  offset: 164, 236
+  index: -1
+images/1_05
+  rotate: true
+  xy: 406, 806
+  size: 81, 147
+  orig: 425, 494
+  offset: 180, 207
+  index: -1
+images/1_06
+  rotate: true
+  xy: 2, 673
+  size: 131, 239
+  orig: 425, 494
+  offset: 144, 182
+  index: -1
+images/1_07
+  rotate: true
+  xy: 243, 668
+  size: 136, 244
+  orig: 425, 494
+  offset: 152, 158
+  index: -1
+images/1_08
+  rotate: true
+  xy: 489, 658
+  size: 144, 262
+  orig: 425, 494
+  offset: 158, 138
+  index: -1
+images/1_09
+  rotate: true
+  xy: 753, 564
+  size: 149, 267
+  orig: 425, 494
+  offset: 166, 114
+  index: -1
+images/1_10
+  rotate: true
+  xy: 2, 512
+  size: 154, 287
+  orig: 425, 494
+  offset: 175, 84
+  index: -1
+images/1_29
+  rotate: true
+  xy: 2, 27
+  size: 215, 321
+  orig: 425, 494
+  offset: 100, 47
+  index: -1
+images/1_30
+  rotate: true
+  xy: 2, 295
+  size: 215, 264
+  orig: 425, 494
+  offset: 102, 47
+  index: -1
+images/1_31
+  rotate: false
+  xy: 268, 244
+  size: 225, 215
+  orig: 425, 494
+  offset: 92, 70
+  index: -1
+images/1_32
+  rotate: false
+  xy: 495, 235
+  size: 242, 220
+  orig: 425, 494
+  offset: 92, 58
+  index: -1
+images/1_33
+  rotate: false
+  xy: 742, 350
+  size: 241, 212
+  orig: 425, 494
+  offset: 93, 58
+  index: -1
+images/1_34
+  rotate: false
+  xy: 499, 457
+  size: 241, 199
+  orig: 425, 494
+  offset: 93, 71
+  index: -1
+images/1_35
+  rotate: true
+  xy: 739, 49
+  size: 299, 231
+  orig: 425, 494
+  offset: 84, 44
+  index: -1
+images/1_36
+  rotate: false
+  xy: 325, 2
+  size: 299, 231
+  orig: 425, 494
+  offset: 84, 44
+  index: -1
+images/1_40
+  rotate: true
+  xy: 826, 715
+  size: 172, 187
+  orig: 425, 494
+  offset: 213, 33
+  index: -1
+images/1_41
+  rotate: true
+  xy: 291, 461
+  size: 195, 206
+  orig: 425, 494
+  offset: 204, 21
+  index: -1
+images/1_42
+  rotate: true
+  xy: 291, 461
+  size: 195, 206
+  orig: 425, 494
+  offset: 204, 21
+  index: -1
+images/1_45
+  rotate: false
+  xy: 5, 809
+  size: 155, 78
+  orig: 425, 494
+  offset: 224, 49
+  index: -1
+images/1_43
+  rotate: false
+  xy: 5, 809
+  size: 155, 78
+  orig: 425, 494
+  offset: 224, 49
+  index: -1
+images/1_44
+  rotate: false
+  xy: 5, 809
+  size: 155, 78
+  orig: 425, 494
+  offset: 224, 49
+  index: -1
+
+YH_ZD_00582.png
+size: 999,833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_11
+  rotate: false
+  xy: 2, 419
+  size: 362, 412
+  orig: 425, 494
+  offset: 22, 44
+  index: -1
+images/1_16
+  rotate: false
+  xy: 2, 2
+  size: 344, 415
+  orig: 425, 494
+  offset: 42, 33
+  index: -1
+images/1_17
+  rotate: false
+  xy: 366, 427
+  size: 344, 404
+  orig: 425, 494
+  offset: 56, 21
+  index: -1
+images/1_21
+  rotate: false
+  xy: 348, 24
+  size: 363, 393
+  orig: 425, 494
+  offset: 17, 41
+  index: -1
+images/1_24
+  rotate: false
+  xy: 712, 461
+  size: 285, 370
+  orig: 425, 494
+  offset: 47, 42
+  index: -1
+images/1_25
+  rotate: false
+  xy: 713, 44
+  size: 273, 415
+  orig: 425, 494
+  offset: 59, 30
+  index: -1
+
+YH_ZD_00583.png
+size: 1017,909
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_15
+  rotate: false
+  xy: 695, 2
+  size: 320, 346
+  orig: 425, 494
+  offset: 66, 33
+  index: -1
+images/1_19
+  rotate: true
+  xy: 342, 125
+  size: 298, 351
+  orig: 425, 494
+  offset: 82, 49
+  index: -1
+images/1_20
+  rotate: true
+  xy: 2, 140
+  size: 283, 338
+  orig: 425, 494
+  offset: 97, 49
+  index: -1
+images/1_26
+  rotate: true
+  xy: 311, 425
+  size: 245, 388
+  orig: 425, 494
+  offset: 70, 30
+  index: -1
+images/1_27
+  rotate: true
+  xy: 372, 672
+  size: 235, 395
+  orig: 425, 494
+  offset: 80, 17
+  index: -1
+images/1_28
+  rotate: true
+  xy: 2, 673
+  size: 234, 368
+  orig: 425, 494
+  offset: 81, 17
+  index: -1
+images/1_37
+  rotate: true
+  xy: 769, 600
+  size: 307, 237
+  orig: 425, 494
+  offset: 75, 44
+  index: -1
+images/1_38
+  rotate: false
+  xy: 2, 434
+  size: 307, 237
+  orig: 425, 494
+  offset: 75, 44
+  index: -1
+images/1_39
+  rotate: false
+  xy: 701, 350
+  size: 310, 248
+  orig: 425, 494
+  offset: 75, 33
+  index: -1
+
+YH_ZD_00584.png
+size: 770,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_12
+  rotate: true
+  xy: 383, 2
+  size: 351, 385
+  orig: 425, 494
+  offset: 33, 44
+  index: -1
+images/1_13
+  rotate: true
+  xy: 2, 11
+  size: 342, 379
+  orig: 425, 494
+  offset: 42, 44
+  index: -1
+images/1_14
+  rotate: true
+  xy: 2, 365
+  size: 331, 352
+  orig: 425, 494
+  offset: 53, 44
+  index: -1
+images/1_18
+  rotate: true
+  xy: 356, 355
+  size: 332, 402
+  orig: 425, 494
+  offset: 68, 21
+  index: -1
+images/1_22
+  rotate: true
+  xy: 376, 689
+  size: 322, 392
+  orig: 425, 494
+  offset: 27, 41
+  index: -1
+images/1_23
+  rotate: true
+  xy: 2, 698
+  size: 313, 372
+  orig: 425, 494
+  offset: 36, 42
+  index: -1

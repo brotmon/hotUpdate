@@ -1,0 +1,81 @@
+
+BOSS0023_2.png
+size: 850,992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0006
+  rotate: true
+  xy: 689, 80
+  size: 491, 159
+  orig: 500, 170
+  offset: 5, 5
+  index: -1
+effects_0009
+  rotate: false
+  xy: 2, 2
+  size: 685, 569
+  orig: 750, 600
+  offset: 29, 14
+  index: -1
+effects_0010
+  rotate: false
+  xy: 2, 573
+  size: 707, 417
+  orig: 750, 600
+  offset: 19, 11
+  index: -1
+
+BOSS0023_22.png
+size: 884,795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0008
+  rotate: true
+  xy: 705, 125
+  size: 668, 177
+  orig: 750, 600
+  offset: 32, 12
+  index: -1
+effects_0011
+  rotate: false
+  xy: 2, 345
+  size: 701, 448
+  orig: 750, 600
+  offset: 31, 11
+  index: -1
+effects_0012
+  rotate: false
+  xy: 2, 2
+  size: 570, 341
+  orig: 750, 600
+  offset: 137, 24
+  index: -1
+
+BOSS0023_23.png
+size: 902,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0007
+  rotate: false
+  xy: 2, 263
+  size: 424, 515
+  orig: 524, 591
+  offset: 49, 36
+  index: -1
+effects_0013
+  rotate: false
+  xy: 428, 363
+  size: 472, 415
+  orig: 750, 600
+  offset: 222, 16
+  index: -1
+effects_0014
+  rotate: false
+  xy: 428, 2
+  size: 426, 359
+  orig: 750, 600
+  offset: 226, 19
+  index: -1

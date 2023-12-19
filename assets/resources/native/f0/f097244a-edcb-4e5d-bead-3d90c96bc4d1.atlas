@@ -1,0 +1,132 @@
+
+BOSS20.png
+size: 905,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0028
+  rotate: false
+  xy: 402, 183
+  size: 299, 196
+  orig: 430, 276
+  offset: 119, 21
+  index: -1
+effects_0029
+  rotate: false
+  xy: 402, 381
+  size: 334, 215
+  orig: 430, 276
+  offset: 83, 18
+  index: -1
+effects_0030
+  rotate: false
+  xy: 2, 133
+  size: 369, 227
+  orig: 430, 276
+  offset: 50, 18
+  index: -1
+effects_0031
+  rotate: false
+  xy: 2, 362
+  size: 398, 234
+  orig: 430, 276
+  offset: 18, 19
+  index: -1
+fa1
+  rotate: false
+  xy: 380, 11
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 703, 181
+  size: 194, 198
+  orig: 194, 213
+  offset: 0, 0
+  index: -1
+houshou
+  rotate: false
+  xy: 702, 78
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 823, 78
+  size: 66, 101
+  orig: 66, 101
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: true
+  xy: 702, 9
+  size: 67, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 240, 61
+  size: 138, 70
+  orig: 138, 70
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 198, 11
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 2, 10
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: true
+  xy: 804, 3
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: false
+  xy: 102, 15
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 738, 411
+  size: 165, 185
+  orig: 165, 185
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 552, 46
+  size: 148, 135
+  orig: 148, 135
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 552, 2
+  size: 42, 50
+  orig: 44, 52
+  offset: 1, 2
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 69
+  size: 236, 62
+  orig: 238, 64
+  offset: 1, 1
+  index: -1

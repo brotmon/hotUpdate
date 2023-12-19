@@ -1,0 +1,34 @@
+
+YX018_2_weapon.png
+size: 143,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 44, 45
+  offset: 2, 3
+  index: -1
+wuqi1
+  rotate: false
+  xy: 86, 56
+  size: 55, 100
+  orig: 59, 104
+  offset: 2, 2
+  index: -1
+wuqi2
+  rotate: false
+  xy: 2, 43
+  size: 82, 113
+  orig: 85, 115
+  offset: 1, 1
+  index: -1
+wuqi3
+  rotate: false
+  xy: 86, 5
+  size: 50, 49
+  orig: 52, 52
+  offset: 1, 2
+  index: -1

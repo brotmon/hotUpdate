@@ -1,0 +1,69 @@
+
+BOSS0024_2.png
+size: 269,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0001
+  rotate: true
+  xy: 180, 327
+  size: 116, 70
+  orig: 118, 72
+  offset: 1, 1
+  index: -1
+baozha0003
+  rotate: true
+  xy: 2, 2
+  size: 143, 153
+  orig: 145, 155
+  offset: 2, 0
+  index: -1
+baozha0005
+  rotate: true
+  xy: 2, 344
+  size: 162, 176
+  orig: 163, 177
+  offset: 1, 1
+  index: -1
+baozha0007
+  rotate: false
+  xy: 2, 240
+  size: 170, 66
+  orig: 171, 66
+  offset: 1, 0
+  index: -1
+baozha0009
+  rotate: false
+  xy: 2, 308
+  size: 171, 34
+  orig: 171, 66
+  offset: 0, 0
+  index: -1
+paodan0001
+  rotate: false
+  xy: 167, 42
+  size: 91, 133
+  orig: 120, 171
+  offset: 10, 0
+  index: -1
+paodan0003
+  rotate: false
+  xy: 175, 177
+  size: 92, 148
+  orig: 120, 171
+  offset: 10, 6
+  index: -1
+paodan0005
+  rotate: true
+  xy: 2, 147
+  size: 91, 163
+  orig: 120, 171
+  offset: 10, 0
+  index: -1
+shitou
+  rotate: true
+  xy: 180, 445
+  size: 61, 77
+  orig: 80, 90
+  offset: 10, 7
+  index: -1

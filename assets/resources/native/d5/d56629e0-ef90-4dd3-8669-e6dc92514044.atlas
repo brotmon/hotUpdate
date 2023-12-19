@@ -1,0 +1,146 @@
+
+TX_UI_0009.png
+size: 767,393
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tjp_fx_bg_02
+  rotate: false
+  xy: 532, 23
+  size: 31, 32
+  orig: 35, 35
+  offset: 2, 1
+  index: -1
+tjp_fx_jianding01
+  rotate: false
+  xy: 574, 8
+  size: 190, 190
+  orig: 200, 200
+  offset: 5, 4
+  index: -1
+tjp_fx_jianding02
+  rotate: false
+  xy: 574, 200
+  size: 191, 191
+  orig: 200, 200
+  offset: 5, 4
+  index: -1
+tjp_fx_jianding04
+  rotate: true
+  xy: 477, 28
+  size: 13, 7
+  orig: 80, 19
+  offset: 63, 5
+  index: -1
+tjp_fx_jianding05
+  rotate: false
+  xy: 2, 2
+  size: 25, 9
+  orig: 80, 19
+  offset: 53, 5
+  index: -1
+tjp_fx_jianding06
+  rotate: false
+  xy: 294, 9
+  size: 41, 12
+  orig: 80, 19
+  offset: 33, 3
+  index: -1
+tjp_fx_jianding07
+  rotate: false
+  xy: 487, 57
+  size: 60, 14
+  orig: 80, 19
+  offset: 10, 2
+  index: -1
+tjp_fx_jianding08
+  rotate: false
+  xy: 487, 73
+  size: 64, 15
+  orig: 80, 19
+  offset: 6, 2
+  index: -1
+tjp_fx_jianding09
+  rotate: false
+  xy: 361, 13
+  size: 34, 16
+  orig: 80, 19
+  offset: 4, 1
+  index: -1
+tjp_fx_jianding10
+  rotate: false
+  xy: 29, 5
+  size: 32, 6
+  orig: 80, 19
+  offset: 2, 11
+  index: -1
+tjp_fx_jianding12
+  rotate: false
+  xy: 487, 25
+  size: 43, 30
+  orig: 140, 74
+  offset: 90, 29
+  index: -1
+tjp_fx_jianding13
+  rotate: false
+  xy: 434, 43
+  size: 51, 45
+  orig: 140, 74
+  offset: 83, 19
+  index: -1
+tjp_fx_jianding14
+  rotate: false
+  xy: 361, 31
+  size: 71, 57
+  orig: 140, 74
+  offset: 58, 11
+  index: -1
+tjp_fx_jianding15
+  rotate: false
+  xy: 111, 13
+  size: 102, 63
+  orig: 140, 74
+  offset: 19, 7
+  index: -1
+tjp_fx_jianding16
+  rotate: false
+  xy: 2, 13
+  size: 107, 63
+  orig: 140, 74
+  offset: 13, 7
+  index: -1
+tjp_fx_jianding17
+  rotate: false
+  xy: 215, 11
+  size: 77, 65
+  orig: 140, 74
+  offset: 10, 4
+  index: -1
+tjp_fx_jianding18
+  rotate: true
+  xy: 434, 17
+  size: 24, 41
+  orig: 140, 74
+  offset: 50, 3
+  index: -1
+tjp_fx_jianding21
+  rotate: false
+  xy: 294, 23
+  size: 65, 65
+  orig: 72, 71
+  offset: 4, 3
+  index: -1
+tjp_fx_jianding_ju01
+  rotate: false
+  xy: 291, 90
+  size: 281, 301
+  orig: 300, 321
+  offset: 1, 1
+  index: -1
+tjp_fx_jianding_ju02
+  rotate: false
+  xy: 2, 78
+  size: 287, 313
+  orig: 300, 321
+  offset: 11, 2
+  index: -1

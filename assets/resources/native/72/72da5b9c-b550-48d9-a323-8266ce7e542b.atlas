@@ -1,0 +1,167 @@
+
+BOSS10.png
+size: 949,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 300, 216
+  size: 185, 162
+  orig: 185, 162
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 608, 279
+  size: 378, 248
+  orig: 378, 248
+  offset: 0, 0
+  index: -1
+tou1-1-1
+  rotate: true
+  xy: 293, 2
+  size: 212, 138
+  orig: 212, 138
+  offset: 0, 0
+  index: -1
+tou1-1-2
+  rotate: true
+  xy: 872, 89
+  size: 127, 61
+  orig: 129, 63
+  offset: 1, 1
+  index: -1
+tou1-2
+  rotate: false
+  xy: 2, 181
+  size: 130, 234
+  orig: 130, 234
+  offset: 0, 0
+  index: -1
+tou2-1
+  rotate: true
+  xy: 134, 241
+  size: 174, 164
+  orig: 174, 164
+  offset: 0, 0
+  index: -1
+tou2-2
+  rotate: true
+  xy: 134, 72
+  size: 167, 157
+  orig: 169, 159
+  offset: 1, 1
+  index: -1
+tou3-1-1
+  rotate: true
+  xy: 433, 5
+  size: 181, 134
+  orig: 181, 134
+  offset: 0, 0
+  index: -1
+tou3-1-2
+  rotate: false
+  xy: 761, 2
+  size: 110, 77
+  orig: 112, 79
+  offset: 1, 1
+  index: -1
+tou3-2
+  rotate: false
+  xy: 761, 81
+  size: 109, 196
+  orig: 109, 196
+  offset: 0, 0
+  index: -1
+tou4-1-1
+  rotate: true
+  xy: 464, 188
+  size: 213, 141
+  orig: 213, 141
+  offset: 0, 0
+  index: -1
+tou4-1-2
+  rotate: true
+  xy: 872, 218
+  size: 124, 64
+  orig: 126, 66
+  offset: 1, 1
+  index: -1
+tou5-1-1
+  rotate: true
+  xy: 607, 129
+  size: 148, 152
+  orig: 148, 152
+  offset: 0, 0
+  index: -1
+tou5-1-2
+  rotate: true
+  xy: 112, 2
+  size: 68, 97
+  orig: 70, 99
+  offset: 1, 1
+  index: -1
+tou5-2
+  rotate: true
+  xy: 386, 403
+  size: 178, 171
+  orig: 178, 171
+  offset: 0, 0
+  index: -1
+tui1-1
+  rotate: false
+  xy: 858, 344
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+tui1-2
+  rotate: false
+  xy: 858, 567
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+tui2-1
+  rotate: false
+  xy: 858, 431
+  size: 88, 134
+  orig: 88, 145
+  offset: 0, 11
+  index: -1
+tui2-2
+  rotate: true
+  xy: 569, 32
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+tui3
+  rotate: false
+  xy: 679, 11
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 2, 22
+  size: 108, 157
+  orig: 108, 157
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 417
+  size: 382, 164
+  orig: 382, 164
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 583
+  size: 604, 74
+  orig: 606, 76
+  offset: 1, 1
+  index: -1

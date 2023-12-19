@@ -1,0 +1,13 @@
+
+YX003_2_weapon.png
+size: 280,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+futou2
+  rotate: false
+  xy: 2, 2
+  size: 276, 159
+  orig: 277, 160
+  offset: 0, 0
+  index: -1

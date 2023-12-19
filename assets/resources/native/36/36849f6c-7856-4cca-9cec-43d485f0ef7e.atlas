@@ -1,0 +1,145 @@
+
+YH_ZD_0076.png
+size: 997,952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_00
+  rotate: false
+  xy: 2, 949
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/1_01
+  rotate: true
+  xy: 5, 927
+  size: 23, 104
+  orig: 503, 802
+  offset: 195, 272
+  index: -1
+images/1_02
+  rotate: true
+  xy: 2, 669
+  size: 150, 384
+  orig: 503, 802
+  offset: 157, 119
+  index: -1
+images/1_03
+  rotate: true
+  xy: 2, 163
+  size: 250, 441
+  orig: 503, 802
+  offset: 143, 116
+  index: -1
+images/1_04
+  rotate: true
+  xy: 445, 2
+  size: 261, 337
+  orig: 503, 802
+  offset: 131, 107
+  index: -1
+images/1_05
+  rotate: false
+  xy: 712, 521
+  size: 283, 243
+  orig: 503, 802
+  offset: 118, 87
+  index: -1
+images/1_09
+  rotate: true
+  xy: 664, 265
+  size: 254, 293
+  orig: 503, 802
+  offset: 223, 46
+  index: -1
+images/1_10
+  rotate: false
+  xy: 2, 496
+  size: 318, 171
+  orig: 503, 802
+  offset: 166, 44
+  index: -1
+images/1_11
+  rotate: false
+  xy: 388, 660
+  size: 322, 153
+  orig: 503, 802
+  offset: 157, 39
+  index: -1
+images/1_14
+  rotate: true
+  xy: 322, 415
+  size: 243, 340
+  orig: 503, 802
+  offset: 116, 32
+  index: -1
+images/1_15
+  rotate: true
+  xy: 724, 766
+  size: 184, 198
+  orig: 503, 802
+  offset: 50, 32
+  index: -1
+images/1_16
+  rotate: false
+  xy: 111, 826
+  size: 184, 124
+  orig: 503, 802
+  offset: 50, 27
+  index: -1
+images/1_17
+  rotate: false
+  xy: 297, 821
+  size: 196, 129
+  orig: 503, 802
+  offset: 41, 21
+  index: -1
+images/1_18
+  rotate: false
+  xy: 495, 815
+  size: 227, 135
+  orig: 503, 802
+  offset: 26, 15
+  index: -1
+
+YH_ZD_00762.png
+size: 915,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_06
+  rotate: false
+  xy: 626, 488
+  size: 287, 458
+  orig: 503, 802
+  offset: 166, 58
+  index: -1
+images/1_07
+  rotate: true
+  xy: 2, 312
+  size: 264, 531
+  orig: 503, 802
+  offset: 197, 54
+  index: -1
+images/1_08
+  rotate: true
+  xy: 2, 24
+  size: 286, 413
+  orig: 503, 802
+  offset: 183, 49
+  index: -1
+images/1_12
+  rotate: true
+  xy: 2, 578
+  size: 368, 622
+  orig: 503, 802
+  offset: 118, 34
+  index: -1
+images/1_13
+  rotate: false
+  xy: 535, 2
+  size: 374, 484
+  orig: 503, 802
+  offset: 117, 30
+  index: -1

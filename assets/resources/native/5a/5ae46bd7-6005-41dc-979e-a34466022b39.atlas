@@ -1,0 +1,249 @@
+
+BOSS003_1.png
+size: 1013,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 230, 167
+  size: 126, 188
+  orig: 157, 212
+  offset: 9, 0
+  index: -1
+2
+  rotate: false
+  xy: 420, 52
+  size: 131, 200
+  orig: 157, 212
+  offset: 21, 2
+  index: -1
+effect_016
+  rotate: false
+  xy: 2, 6
+  size: 226, 246
+  orig: 300, 300
+  offset: 33, 28
+  index: -1
+effect_017
+  rotate: false
+  xy: 2, 368
+  size: 223, 210
+  orig: 350, 300
+  offset: 74, 50
+  index: -1
+effect_021
+  rotate: true
+  xy: 230, 12
+  size: 153, 183
+  orig: 350, 300
+  offset: 54, 38
+  index: -1
+effect_022
+  rotate: true
+  xy: 860, 38
+  size: 127, 151
+  orig: 350, 300
+  offset: 56, 59
+  index: -1
+effect_023
+  rotate: true
+  xy: 2, 258
+  size: 108, 147
+  orig: 350, 300
+  offset: 70, 62
+  index: -1
+effect_024
+  rotate: true
+  xy: 230, 295
+  size: 283, 265
+  orig: 550, 500
+  offset: 125, 123
+  index: -1
+effect_026
+  rotate: false
+  xy: 554, 589
+  size: 449, 420
+  orig: 550, 500
+  offset: 41, 36
+  index: -1
+effect_027
+  rotate: false
+  xy: 553, 167
+  size: 449, 420
+  orig: 550, 500
+  offset: 41, 36
+  index: -1
+g1
+  rotate: false
+  xy: 553, 85
+  size: 79, 80
+  orig: 100, 100
+  offset: 8, 13
+  index: -1
+huozhu_0000
+  rotate: false
+  xy: 2, 580
+  size: 509, 89
+  orig: 550, 120
+  offset: 19, 17
+  index: -1
+huozhu_0001
+  rotate: false
+  xy: 2, 719
+  size: 537, 93
+  orig: 550, 120
+  offset: 4, 14
+  index: -1
+huozhu_0002
+  rotate: false
+  xy: 2, 814
+  size: 545, 100
+  orig: 550, 120
+  offset: 0, 14
+  index: -1
+huozhu_0003
+  rotate: false
+  xy: 2, 916
+  size: 550, 93
+  orig: 550, 120
+  offset: 0, 14
+  index: -1
+huozhu_0004
+  rotate: false
+  xy: 2, 671
+  size: 521, 46
+  orig: 550, 120
+  offset: 13, 41
+  index: -1
+huozhu_0005
+  rotate: false
+  xy: 415, 2
+  size: 443, 48
+  orig: 550, 120
+  offset: 30, 38
+  index: -1
+huozhu_0007
+  rotate: true
+  xy: 513, 254
+  size: 415, 38
+  orig: 550, 120
+  offset: 39, 44
+  index: -1
+
+BOSS003_12.png
+size: 1010,917
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 571, 651
+  size: 139, 203
+  orig: 157, 212
+  offset: 18, 9
+  index: -1
+4
+  rotate: true
+  xy: 204, 736
+  size: 131, 179
+  orig: 157, 212
+  offset: 26, 13
+  index: -1
+5
+  rotate: true
+  xy: 2, 737
+  size: 130, 200
+  orig: 157, 212
+  offset: 27, 6
+  index: -1
+6
+  rotate: true
+  xy: 385, 661
+  size: 131, 184
+  orig: 157, 212
+  offset: 18, 10
+  index: -1
+7
+  rotate: true
+  xy: 628, 792
+  size: 123, 187
+  orig: 157, 212
+  offset: 18, 2
+  index: -1
+8
+  rotate: true
+  xy: 817, 792
+  size: 123, 191
+  orig: 157, 212
+  offset: 14, 2
+  index: -1
+9
+  rotate: true
+  xy: 426, 794
+  size: 121, 200
+  orig: 157, 212
+  offset: 20, 12
+  index: -1
+effect_018
+  rotate: true
+  xy: 2, 521
+  size: 213, 215
+  orig: 350, 300
+  offset: 70, 37
+  index: -1
+effect_019
+  rotate: false
+  xy: 219, 446
+  size: 219, 213
+  orig: 350, 300
+  offset: 63, 33
+  index: -1
+effect_020
+  rotate: true
+  xy: 776, 594
+  size: 196, 202
+  orig: 350, 300
+  offset: 56, 34
+  index: -1
+effect_025
+  rotate: false
+  xy: 440, 194
+  size: 415, 398
+  orig: 550, 500
+  offset: 70, 51
+  index: -1
+effect_028
+  rotate: true
+  xy: 2, 2
+  size: 442, 406
+  orig: 550, 500
+  offset: 45, 48
+  index: -1
+huozhu_0006
+  rotate: false
+  xy: 2, 869
+  size: 422, 46
+  orig: 550, 120
+  offset: 38, 38
+  index: -1
+
+BOSS003_13.png
+size: 885,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_029
+  rotate: false
+  xy: 2, 6
+  size: 480, 438
+  orig: 550, 500
+  offset: 37, 28
+  index: -1
+effect_030
+  rotate: true
+  xy: 484, 2
+  size: 442, 399
+  orig: 550, 500
+  offset: 45, 54
+  index: -1

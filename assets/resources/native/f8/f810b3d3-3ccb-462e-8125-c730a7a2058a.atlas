@@ -1,0 +1,20 @@
+
+LD_ZD_0006.png
+size: 680,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_hzw_s1_fenchen
+  rotate: true
+  xy: 2, 2
+  size: 420, 431
+  orig: 450, 450
+  offset: 9, 10
+  index: -1
+effect_hzw_s1_fenchen2
+  rotate: true
+  xy: 435, 155
+  size: 267, 243
+  orig: 330, 295
+  offset: 35, 20
+  index: -1

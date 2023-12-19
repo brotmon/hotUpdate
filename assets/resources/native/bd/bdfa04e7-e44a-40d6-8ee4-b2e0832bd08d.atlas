@@ -1,0 +1,118 @@
+
+TX_UI_1002.png
+size: 825,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+purple/lizi0001
+  rotate: false
+  xy: 721, 14
+  size: 102, 105
+  orig: 215, 180
+  offset: 77, 5
+  index: -1
+purple/lizi0002
+  rotate: false
+  xy: 569, 6
+  size: 150, 110
+  orig: 215, 180
+  offset: 33, 5
+  index: -1
+purple/lizi0003
+  rotate: true
+  xy: 433, 122
+  size: 155, 111
+  orig: 215, 180
+  offset: 30, 10
+  index: -1
+purple/lizi0004
+  rotate: true
+  xy: 569, 118
+  size: 159, 118
+  orig: 215, 180
+  offset: 28, 14
+  index: -1
+purple/lizi0005
+  rotate: true
+  xy: 695, 254
+  size: 163, 123
+  orig: 215, 180
+  offset: 26, 19
+  index: -1
+purple/lizi0006
+  rotate: true
+  xy: 304, 72
+  size: 168, 127
+  orig: 215, 180
+  offset: 25, 24
+  index: -1
+purple/lizi0007
+  rotate: true
+  xy: 275, 242
+  size: 175, 131
+  orig: 215, 180
+  offset: 20, 27
+  index: -1
+purple/lizi0008
+  rotate: true
+  xy: 139, 237
+  size: 180, 134
+  orig: 215, 180
+  offset: 19, 31
+  index: -1
+purple/lizi0009
+  rotate: true
+  xy: 2, 231
+  size: 186, 135
+  orig: 215, 180
+  offset: 15, 34
+  index: -1
+purple/lizi0010
+  rotate: false
+  xy: 689, 121
+  size: 121, 131
+  orig: 215, 180
+  offset: 12, 38
+  index: -1
+purple/purple0001
+  rotate: false
+  xy: 408, 279
+  size: 239, 62
+  orig: 300, 85
+  offset: 31, 10
+  index: -1
+purple/purple0002
+  rotate: false
+  xy: 304, 2
+  size: 263, 68
+  orig: 300, 85
+  offset: 19, 7
+  index: -1
+purple/purple0003
+  rotate: false
+  xy: 408, 343
+  size: 285, 74
+  orig: 300, 85
+  offset: 8, 4
+  index: -1
+purple/purple0004
+  rotate: false
+  xy: 2, 148
+  size: 300, 81
+  orig: 300, 85
+  offset: 0, 0
+  index: -1
+purple/purple0005
+  rotate: false
+  xy: 2, 65
+  size: 300, 81
+  orig: 300, 85
+  offset: 0, 0
+  index: -1
+purple/purple0006
+  rotate: false
+  xy: 2, 6
+  size: 223, 57
+  orig: 300, 85
+  offset: 39, 12
+  index: -1

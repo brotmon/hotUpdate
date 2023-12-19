@@ -1,0 +1,13 @@
+
+YX008_2_weapon.png
+size: 403,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 2, 2
+  size: 399, 137
+  orig: 399, 138
+  offset: 0, 1
+  index: -1

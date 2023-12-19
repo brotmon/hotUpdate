@@ -1,0 +1,27 @@
+
+YH_ZD_0063.png
+size: 986,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fazhen1
+  rotate: false
+  xy: 2, 45
+  size: 534, 536
+  orig: 569, 610
+  offset: 32, 35
+  index: -1
+images/fazhen2
+  rotate: false
+  xy: 538, 2
+  size: 134, 131
+  orig: 144, 142
+  offset: 4, 6
+  index: -1
+images/texiao
+  rotate: false
+  xy: 538, 135
+  size: 446, 446
+  orig: 470, 470
+  offset: 12, 12
+  index: -1

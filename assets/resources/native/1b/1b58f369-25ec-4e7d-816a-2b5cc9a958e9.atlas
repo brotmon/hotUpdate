@@ -1,0 +1,55 @@
+
+BOSS0022_1.png
+size: 489,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao01
+  rotate: false
+  xy: 357, 52
+  size: 116, 70
+  orig: 118, 72
+  offset: 1, 1
+  index: -1
+bao02
+  rotate: false
+  xy: 344, 124
+  size: 143, 153
+  orig: 145, 155
+  offset: 2, 0
+  index: -1
+bao03
+  rotate: false
+  xy: 180, 101
+  size: 162, 176
+  orig: 163, 177
+  offset: 1, 1
+  index: -1
+bao04
+  rotate: false
+  xy: 185, 33
+  size: 170, 66
+  orig: 171, 66
+  offset: 1, 0
+  index: -1
+bing
+  rotate: true
+  xy: 185, 4
+  size: 27, 201
+  orig: 27, 201
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 181, 80
+  orig: 200, 80
+  offset: 10, 0
+  index: -1
+guangzhu
+  rotate: false
+  xy: 2, 84
+  size: 176, 193
+  orig: 200, 220
+  offset: 12, 13
+  index: -1

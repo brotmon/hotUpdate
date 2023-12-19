@@ -1,0 +1,34 @@
+
+BOSS002_1.png
+size: 887,599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_ntr_niuying
+  rotate: true
+  xy: 2, 2
+  size: 595, 428
+  orig: 627, 428
+  offset: 0, 0
+  index: -1
+effects_ntr_yan01
+  rotate: true
+  xy: 432, 73
+  size: 524, 247
+  orig: 539, 268
+  offset: 7, 14
+  index: -1
+effects_ntr_yan02
+  rotate: false
+  xy: 432, 17
+  size: 268, 54
+  orig: 275, 66
+  offset: 5, 5
+  index: -1
+effects_ntr_yan03
+  rotate: true
+  xy: 681, 230
+  size: 367, 204
+  orig: 380, 214
+  offset: 5, 4
+  index: -1

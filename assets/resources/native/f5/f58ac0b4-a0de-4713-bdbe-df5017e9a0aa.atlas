@@ -1,0 +1,27 @@
+
+YX004_3_weapon.png
+size: 178,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mofashu
+  rotate: false
+  xy: 2, 2
+  size: 114, 105
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+shuqian
+  rotate: true
+  xy: 118, 24
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+texiao1
+  rotate: false
+  xy: 118, 49
+  size: 58, 58
+  orig: 76, 76
+  offset: 9, 5
+  index: -1

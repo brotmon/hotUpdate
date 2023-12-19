@@ -1,0 +1,90 @@
+
+BOSS004_2.png
+size: 998,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sraqz_skl2_0001
+  rotate: false
+  xy: 341, 319
+  size: 201, 129
+  orig: 256, 157
+  offset: 23, 9
+  index: -1
+sraqz_skl2_0002
+  rotate: false
+  xy: 544, 309
+  size: 222, 139
+  orig: 256, 157
+  offset: 17, 8
+  index: -1
+sraqz_skl2_0003
+  rotate: false
+  xy: 2, 228
+  size: 233, 141
+  orig: 256, 157
+  offset: 13, 8
+  index: -1
+sraqz_skl2_0004
+  rotate: false
+  xy: 237, 174
+  size: 230, 143
+  orig: 256, 157
+  offset: 11, 7
+  index: -1
+sraqz_skl2_0005
+  rotate: false
+  xy: 768, 303
+  size: 228, 145
+  orig: 256, 157
+  offset: 11, 6
+  index: -1
+sraqz_skl2_0006
+  rotate: false
+  xy: 469, 161
+  size: 231, 146
+  orig: 256, 157
+  offset: 10, 6
+  index: -1
+sraqz_skl2_0007
+  rotate: false
+  xy: 702, 154
+  size: 234, 147
+  orig: 256, 157
+  offset: 8, 5
+  index: -1
+sraqz_skl2_0008
+  rotate: false
+  xy: 482, 2
+  size: 237, 150
+  orig: 256, 157
+  offset: 7, 5
+  index: -1
+sraqz_skl2_0009
+  rotate: false
+  xy: 721, 2
+  size: 238, 150
+  orig: 256, 157
+  offset: 6, 5
+  index: -1
+sraqz_skl2_0010
+  rotate: false
+  xy: 241, 10
+  size: 239, 149
+  orig: 256, 157
+  offset: 5, 6
+  index: -1
+sraqz_skl2_0011
+  rotate: false
+  xy: 2, 24
+  size: 237, 148
+  orig: 256, 157
+  offset: 4, 7
+  index: -1
+sraqz_skl2_dilie
+  rotate: false
+  xy: 2, 371
+  size: 337, 77
+  orig: 350, 85
+  offset: 6, 3
+  index: -1

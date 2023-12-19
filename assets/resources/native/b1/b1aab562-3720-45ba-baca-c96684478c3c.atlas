@@ -1,0 +1,20 @@
+
+YX014_1_weapon.png
+size: 285,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wuqi
+  rotate: false
+  xy: 170, 27
+  size: 113, 127
+  orig: 114, 127
+  offset: 1, 0
+  index: -1
+wuqi1
+  rotate: true
+  xy: 2, 2
+  size: 152, 166
+  orig: 156, 170
+  offset: 2, 2
+  index: -1

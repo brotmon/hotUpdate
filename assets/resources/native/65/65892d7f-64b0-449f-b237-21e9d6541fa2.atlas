@@ -1,0 +1,27 @@
+
+BOSS007_1.png
+size: 897,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_ntr_yan01
+  rotate: false
+  xy: 2, 15
+  size: 524, 247
+  orig: 539, 268
+  offset: 7, 14
+  index: -1
+effects_ntr_yan02
+  rotate: false
+  xy: 528, 2
+  size: 268, 54
+  orig: 275, 66
+  offset: 5, 5
+  index: -1
+effects_ntr_yan03
+  rotate: false
+  xy: 528, 58
+  size: 367, 204
+  orig: 380, 214
+  offset: 5, 4
+  index: -1

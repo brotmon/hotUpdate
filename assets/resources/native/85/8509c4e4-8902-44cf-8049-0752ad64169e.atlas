@@ -1,0 +1,230 @@
+
+TX_ZD_00122.png
+size: 923,905
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_00
+  rotate: false
+  xy: 2, 902
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/1_01
+  rotate: true
+  xy: 5, 853
+  size: 50, 323
+  orig: 867, 686
+  offset: 353, 264
+  index: -1
+images/1_02
+  rotate: true
+  xy: 330, 844
+  size: 59, 333
+  orig: 867, 686
+  offset: 344, 212
+  index: -1
+images/1_03
+  rotate: true
+  xy: 2, 694
+  size: 148, 435
+  orig: 867, 686
+  offset: 286, 144
+  index: -1
+images/1_04
+  rotate: true
+  xy: 439, 607
+  size: 235, 444
+  orig: 867, 686
+  offset: 257, 132
+  index: -1
+images/1_05
+  rotate: true
+  xy: 2, 329
+  size: 276, 451
+  orig: 867, 686
+  offset: 230, 120
+  index: -1
+images/1_06
+  rotate: true
+  xy: 455, 281
+  size: 324, 466
+  orig: 867, 686
+  offset: 201, 108
+  index: -1
+images/1_20
+  rotate: false
+  xy: 2, 2
+  size: 659, 277
+  orig: 867, 686
+  offset: 88, 45
+  index: -1
+
+TX_ZD_001222.png
+size: 972,871
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_19
+  rotate: false
+  xy: 2, 2
+  size: 647, 292
+  orig: 867, 686
+  offset: 91, 49
+  index: -1
+images/1_21
+  rotate: false
+  xy: 2, 584
+  size: 660, 285
+  orig: 867, 686
+  offset: 91, 41
+  index: -1
+images/1_24
+  rotate: true
+  xy: 664, 244
+  size: 625, 306
+  orig: 867, 686
+  offset: 133, 29
+  index: -1
+images/1_25
+  rotate: false
+  xy: 2, 296
+  size: 588, 286
+  orig: 867, 686
+  offset: 155, 36
+  index: -1
+
+TX_ZD_001223.png
+size: 652,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_07
+  rotate: true
+  xy: 2, 2
+  size: 404, 470
+  orig: 867, 686
+  offset: 174, 96
+  index: -1
+images/1_22
+  rotate: false
+  xy: 2, 710
+  size: 648, 293
+  orig: 867, 686
+  offset: 110, 37
+  index: -1
+images/1_23
+  rotate: false
+  xy: 2, 408
+  size: 632, 300
+  orig: 867, 686
+  offset: 129, 33
+  index: -1
+
+TX_ZD_001224.png
+size: 990,896
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_08
+  rotate: true
+  xy: 2, 468
+  size: 426, 456
+  orig: 867, 686
+  offset: 166, 92
+  index: -1
+images/1_11
+  rotate: false
+  xy: 460, 442
+  size: 528, 452
+  orig: 867, 686
+  offset: 141, 81
+  index: -1
+images/1_18
+  rotate: false
+  xy: 2, 2
+  size: 632, 438
+  orig: 867, 686
+  offset: 97, 54
+  index: -1
+
+TX_ZD_001225.png
+size: 593,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_15
+  rotate: false
+  xy: 2, 2
+  size: 589, 567
+  orig: 867, 686
+  offset: 114, 66
+  index: -1
+
+TX_ZD_001226.png
+size: 611,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_14
+  rotate: false
+  xy: 2, 2
+  size: 573, 475
+  orig: 867, 686
+  offset: 121, 70
+  index: -1
+images/1_16
+  rotate: false
+  xy: 2, 479
+  size: 607, 542
+  orig: 867, 686
+  offset: 106, 62
+  index: -1
+
+TX_ZD_001227.png
+size: 626,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_13
+  rotate: false
+  xy: 2, 2
+  size: 555, 486
+  orig: 867, 686
+  offset: 129, 74
+  index: -1
+images/1_17
+  rotate: false
+  xy: 2, 490
+  size: 622, 513
+  orig: 867, 686
+  offset: 99, 58
+  index: -1
+
+TX_ZD_001228.png
+size: 988,977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_09
+  rotate: true
+  xy: 2, 2
+  size: 466, 485
+  orig: 867, 686
+  offset: 158, 88
+  index: -1
+images/1_10
+  rotate: false
+  xy: 2, 470
+  size: 510, 505
+  orig: 867, 686
+  offset: 149, 85
+  index: -1
+images/1_12
+  rotate: true
+  xy: 514, 437
+  size: 538, 472
+  orig: 867, 686
+  offset: 137, 77
+  index: -1

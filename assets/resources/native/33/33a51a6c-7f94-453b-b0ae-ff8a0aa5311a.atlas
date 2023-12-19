@@ -1,0 +1,264 @@
+
+BOSS11.png
+size: 1017,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9_001
+  rotate: false
+  xy: 898, 839
+  size: 117, 86
+  orig: 200, 151
+  offset: 39, 10
+  index: -1
+9_002
+  rotate: false
+  xy: 735, 736
+  size: 140, 103
+  orig: 200, 151
+  offset: 24, 10
+  index: -1
+9_003
+  rotate: false
+  xy: 2, 648
+  size: 156, 110
+  orig: 200, 151
+  offset: 15, 10
+  index: -1
+9_004
+  rotate: false
+  xy: 160, 640
+  size: 167, 117
+  orig: 200, 151
+  offset: 8, 10
+  index: -1
+9_005
+  rotate: false
+  xy: 329, 635
+  size: 168, 120
+  orig: 200, 151
+  offset: 7, 10
+  index: -1
+effects_0028
+  rotate: false
+  xy: 693, 373
+  size: 299, 196
+  orig: 430, 276
+  offset: 119, 21
+  index: -1
+effects_0029
+  rotate: false
+  xy: 437, 156
+  size: 334, 215
+  orig: 430, 276
+  offset: 83, 18
+  index: -1
+effects_0030
+  rotate: true
+  xy: 773, 2
+  size: 369, 227
+  orig: 430, 276
+  offset: 50, 18
+  index: -1
+houqun
+  rotate: false
+  xy: 718, 571
+  size: 193, 156
+  orig: 193, 156
+  offset: 0, 0
+  index: -1
+jianjia1
+  rotate: false
+  xy: 268, 759
+  size: 118, 92
+  orig: 120, 94
+  offset: 1, 1
+  index: -1
+jianjia2
+  rotate: false
+  xy: 444, 931
+  size: 101, 69
+  orig: 103, 71
+  offset: 1, 1
+  index: -1
+neiqun
+  rotate: false
+  xy: 769, 927
+  size: 178, 73
+  orig: 178, 73
+  offset: 0, 0
+  index: -1
+qiandang
+  rotate: true
+  xy: 547, 929
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 443, 384
+  size: 197, 248
+  orig: 197, 248
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 742, 841
+  size: 154, 84
+  orig: 156, 87
+  offset: 1, 2
+  index: -1
+shou2
+  rotate: true
+  xy: 2, 768
+  size: 89, 133
+  orig: 89, 133
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: false
+  xy: 2, 859
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+shou4
+  rotate: true
+  xy: 2, 67
+  size: 216, 353
+  orig: 216, 353
+  offset: 0, 0
+  index: -1
+shou41
+  rotate: true
+  xy: 137, 760
+  size: 91, 129
+  orig: 94, 131
+  offset: 1, 1
+  index: -1
+shou5
+  rotate: false
+  xy: 597, 846
+  size: 143, 80
+  orig: 146, 89
+  offset: 2, 1
+  index: -1
+shou6
+  rotate: false
+  xy: 78, 859
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 499, 583
+  size: 155, 217
+  orig: 157, 220
+  offset: 1, 2
+  index: -1
+tou2
+  rotate: true
+  xy: 674, 928
+  size: 72, 93
+  orig: 74, 96
+  offset: 1, 1
+  index: -1
+tui1
+  rotate: true
+  xy: 388, 757
+  size: 94, 126
+  orig: 96, 128
+  offset: 1, 1
+  index: -1
+tui2
+  rotate: false
+  xy: 200, 934
+  size: 121, 66
+  orig: 123, 68
+  offset: 1, 1
+  index: -1
+tui3
+  rotate: true
+  xy: 77, 935
+  size: 65, 121
+  orig: 67, 123
+  offset: 1, 1
+  index: -1
+tui4
+  rotate: true
+  xy: 616, 740
+  size: 104, 117
+  orig: 104, 117
+  offset: 0, 0
+  index: -1
+tui5
+  rotate: false
+  xy: 323, 933
+  size: 119, 67
+  orig: 119, 67
+  offset: 0, 0
+  index: -1
+tui6
+  rotate: true
+  xy: 516, 748
+  size: 96, 98
+  orig: 98, 100
+  offset: 1, 1
+  index: -1
+wuqi1
+  rotate: false
+  xy: 2, 487
+  size: 439, 146
+  orig: 441, 148
+  offset: 1, 1
+  index: -1
+wuqi2
+  rotate: true
+  xy: 2, 285
+  size: 200, 433
+  orig: 202, 435
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 159, 853
+  size: 436, 74
+  orig: 438, 76
+  offset: 1, 1
+  index: -1
+youqun
+  rotate: true
+  xy: 2, 945
+  size: 55, 73
+  orig: 67, 79
+  offset: 12, 0
+  index: -1
+zuoqun
+  rotate: true
+  xy: 877, 729
+  size: 108, 115
+  orig: 108, 115
+  offset: 0, 0
+  index: -1
+
+BOSS112.png
+size: 754,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0031
+  rotate: false
+  xy: 2, 31
+  size: 398, 234
+  orig: 430, 276
+  offset: 18, 19
+  index: -1
+shou31
+  rotate: true
+  xy: 402, 2
+  size: 263, 350
+  orig: 263, 350
+  offset: 0, 0
+  index: -1

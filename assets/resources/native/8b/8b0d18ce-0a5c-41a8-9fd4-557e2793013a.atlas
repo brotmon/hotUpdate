@@ -1,0 +1,111 @@
+
+YX001.png
+size: 539,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIYAN
+  rotate: false
+  xy: 157, 5
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+FA1
+  rotate: true
+  xy: 2, 88
+  size: 177, 153
+  orig: 202, 153
+  offset: 25, 0
+  index: -1
+FA2
+  rotate: false
+  xy: 2, 8
+  size: 85, 78
+  orig: 85, 78
+  offset: 0, 0
+  index: -1
+FA3
+  rotate: false
+  xy: 89, 13
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+FA4
+  rotate: true
+  xy: 287, 2
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+FA5
+  rotate: true
+  xy: 406, 177
+  size: 88, 130
+  orig: 88, 130
+  offset: 0, 0
+  index: -1
+FA6
+  rotate: true
+  xy: 406, 121
+  size: 54, 72
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+JIAN
+  rotate: true
+  xy: 157, 48
+  size: 217, 102
+  orig: 219, 102
+  offset: 1, 0
+  index: -1
+JIAOYOU
+  rotate: false
+  xy: 497, 2
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+JIAOZUO
+  rotate: true
+  xy: 497, 38
+  size: 34, 38
+  orig: 60, 38
+  offset: 26, 0
+  index: -1
+LIAN
+  rotate: true
+  xy: 261, 120
+  size: 145, 143
+  orig: 147, 146
+  offset: 1, 2
+  index: -1
+SHENTI
+  rotate: true
+  xy: 409, 21
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1
+YANYOU
+  rotate: false
+  xy: 497, 74
+  size: 40, 45
+  orig: 41, 52
+  offset: 1, 0
+  index: -1
+YANZUO
+  rotate: true
+  xy: 480, 121
+  size: 54, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 157, 21
+  size: 128, 25
+  orig: 130, 27
+  offset: 1, 1
+  index: -1

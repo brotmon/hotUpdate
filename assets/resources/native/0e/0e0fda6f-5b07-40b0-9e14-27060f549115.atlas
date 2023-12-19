@@ -1,0 +1,174 @@
+
+BOSS8.png
+size: 1007,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dun1
+  rotate: false
+  xy: 630, 312
+  size: 297, 300
+  orig: 299, 302
+  offset: 1, 1
+  index: -1
+dun2
+  rotate: false
+  xy: 680, 80
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 621, 48
+  size: 128, 50
+  orig: 131, 114
+  offset: 2, 1
+  index: -1
+jiao2
+  rotate: true
+  xy: 892, 116
+  size: 80, 109
+  orig: 82, 111
+  offset: 1, 1
+  index: -1
+jiao3
+  rotate: false
+  xy: 788, 27
+  size: 90, 89
+  orig: 92, 91
+  offset: 1, 1
+  index: -1
+jiao4
+  rotate: true
+  xy: 343, 19
+  size: 137, 118
+  orig: 139, 120
+  offset: 1, 1
+  index: -1
+jiao5
+  rotate: true
+  xy: 680, 201
+  size: 109, 92
+  orig: 111, 94
+  offset: 1, 1
+  index: -1
+jiao6
+  rotate: false
+  xy: 774, 209
+  size: 93, 101
+  orig: 95, 104
+  offset: 1, 2
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 228
+  size: 305, 384
+  orig: 305, 397
+  offset: 0, 13
+  index: -1
+qun2
+  rotate: true
+  xy: 929, 453
+  size: 159, 63
+  orig: 161, 65
+  offset: 1, 1
+  index: -1
+qunzi
+  rotate: false
+  xy: 532, 178
+  size: 146, 85
+  orig: 148, 87
+  offset: 1, 1
+  index: -1
+qunzi2
+  rotate: true
+  xy: 178, 14
+  size: 32, 24
+  orig: 34, 26
+  offset: 1, 1
+  index: -1
+qunzi3
+  rotate: true
+  xy: 788, 118
+  size: 89, 102
+  orig: 92, 104
+  offset: 2, 1
+  index: -1
+shou
+  rotate: true
+  xy: 178, 48
+  size: 108, 163
+  orig: 110, 166
+  offset: 1, 2
+  index: -1
+shou1
+  rotate: true
+  xy: 880, 35
+  size: 79, 75
+  orig: 81, 77
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 673, 2
+  size: 79, 76
+  orig: 81, 79
+  offset: 1, 1
+  index: -1
+tou1
+  rotate: true
+  xy: 2, 8
+  size: 148, 174
+  orig: 150, 176
+  offset: 1, 1
+  index: -1
+tou2
+  rotate: true
+  xy: 929, 198
+  size: 125, 68
+  orig: 127, 70
+  offset: 1, 1
+  index: -1
+tou3
+  rotate: false
+  xy: 388, 174
+  size: 142, 89
+  orig: 142, 89
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 309, 265
+  size: 347, 319
+  orig: 349, 321
+  offset: 1, 1
+  index: -1
+xiongjia
+  rotate: true
+  xy: 463, 4
+  size: 168, 156
+  orig: 170, 158
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 204, 34
+  size: 12, 12
+  orig: 15, 14
+  offset: 1, 1
+  index: -1
+yao
+  rotate: true
+  xy: 929, 325
+  size: 126, 76
+  orig: 128, 78
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 2, 158
+  size: 384, 68
+  orig: 386, 70
+  offset: 1, 1
+  index: -1

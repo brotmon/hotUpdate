@@ -1,0 +1,166 @@
+
+BOSS0010_1.png
+size: 1024,923
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0001
+  rotate: true
+  xy: 698, 577
+  size: 344, 217
+  orig: 420, 260
+  offset: 42, 19
+  index: -1
+effects_0002
+  rotate: false
+  xy: 2, 262
+  size: 325, 213
+  orig: 420, 260
+  offset: 60, 18
+  index: -1
+effects_0003
+  rotate: false
+  xy: 348, 468
+  size: 325, 226
+  orig: 420, 260
+  offset: 58, 19
+  index: -1
+effects_0004
+  rotate: false
+  xy: 2, 696
+  size: 346, 225
+  orig: 420, 260
+  offset: 39, 20
+  index: -1
+effects_0005
+  rotate: false
+  xy: 2, 477
+  size: 344, 217
+  orig: 420, 260
+  offset: 42, 19
+  index: -1
+effects_0006
+  rotate: false
+  xy: 329, 253
+  size: 325, 213
+  orig: 420, 260
+  offset: 60, 18
+  index: -1
+effects_0007
+  rotate: true
+  xy: 675, 250
+  size: 325, 226
+  orig: 420, 260
+  offset: 58, 19
+  index: -1
+effects_0008
+  rotate: false
+  xy: 350, 696
+  size: 346, 225
+  orig: 420, 260
+  offset: 39, 20
+  index: -1
+effects_0011
+  rotate: false
+  xy: 2, 23
+  size: 238, 237
+  orig: 360, 300
+  offset: 97, 33
+  index: -1
+effects_0012
+  rotate: false
+  xy: 242, 7
+  size: 231, 244
+  orig: 360, 300
+  offset: 91, 29
+  index: -1
+effects_0013
+  rotate: false
+  xy: 635, 2
+  size: 217, 246
+  orig: 360, 300
+  offset: 91, 23
+  index: -1
+effects_0018
+  rotate: true
+  xy: 475, 31
+  size: 220, 158
+  orig: 360, 300
+  offset: 29, 45
+  index: -1
+effects_0019
+  rotate: true
+  xy: 854, 45
+  size: 203, 145
+  orig: 360, 300
+  offset: 30, 58
+  index: -1
+effects_0020
+  rotate: true
+  xy: 917, 722
+  size: 199, 105
+  orig: 360, 300
+  offset: 27, 103
+  index: -1
+effects_0021
+  rotate: true
+  xy: 917, 527
+  size: 193, 103
+  orig: 360, 300
+  offset: 28, 104
+  index: -1
+effects_0022
+  rotate: true
+  xy: 903, 390
+  size: 135, 74
+  orig: 360, 300
+  offset: 30, 137
+  index: -1
+
+BOSS0010_12.png
+size: 696,457
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_0009
+  rotate: false
+  xy: 463, 6
+  size: 231, 218
+  orig: 360, 300
+  offset: 105, 41
+  index: -1
+effects_0010
+  rotate: false
+  xy: 2, 2
+  size: 231, 225
+  orig: 360, 300
+  offset: 101, 36
+  index: -1
+effects_0014
+  rotate: true
+  xy: 239, 248
+  size: 207, 244
+  orig: 360, 300
+  offset: 86, 22
+  index: -1
+effects_0015
+  rotate: false
+  xy: 2, 229
+  size: 235, 226
+  orig: 360, 300
+  offset: 50, 36
+  index: -1
+effects_0016
+  rotate: true
+  xy: 239, 12
+  size: 234, 222
+  orig: 360, 300
+  offset: 37, 37
+  index: -1
+effects_0017
+  rotate: true
+  xy: 485, 226
+  size: 229, 206
+  orig: 360, 300
+  offset: 30, 43
+  index: -1

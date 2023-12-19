@@ -1,0 +1,97 @@
+
+BOSS18.png
+size: 1004,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 379, 102
+  size: 333, 236
+  orig: 333, 236
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: false
+  xy: 780, 201
+  size: 215, 312
+  orig: 215, 312
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 897, 86
+  size: 113, 105
+  orig: 114, 106
+  offset: 1, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 255
+  size: 375, 258
+  orig: 614, 342
+  offset: 239, 84
+  index: -1
+shou1
+  rotate: true
+  xy: 377, 17
+  size: 83, 213
+  orig: 83, 213
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 281, 66
+  size: 94, 187
+  orig: 94, 187
+  offset: 0, 0
+  index: -1
+shou3
+  rotate: true
+  xy: 281, 2
+  size: 62, 85
+  orig: 94, 85
+  offset: 32, 0
+  index: -1
+shou4
+  rotate: true
+  xy: 897, 11
+  size: 73, 86
+  orig: 99, 86
+  offset: 26, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 6
+  size: 277, 247
+  orig: 277, 247
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 617, 7
+  size: 278, 192
+  orig: 294, 212
+  offset: 16, 0
+  index: -1
+xiaba
+  rotate: true
+  xy: 617, 277
+  size: 158, 78
+  orig: 158, 78
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 617, 226
+  size: 72, 49
+  orig: 72, 49
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: false
+  xy: 379, 437
+  size: 399, 76
+  orig: 399, 76
+  offset: 0, 0
+  index: -1

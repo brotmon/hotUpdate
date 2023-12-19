@@ -1,0 +1,111 @@
+
+BOSS0017_1.png
+size: 661,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die_guangyun_0001
+  rotate: false
+  xy: 164, 24
+  size: 61, 61
+  orig: 65, 65
+  offset: 2, 2
+  index: -1
+skill1_huoxing_0001
+  rotate: true
+  xy: 341, 9
+  size: 114, 88
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+skill1_huoxing_0003
+  rotate: false
+  xy: 231, 33
+  size: 108, 90
+  orig: 121, 90
+  offset: 9, 0
+  index: -1
+skill1_huoxing_0005
+  rotate: true
+  xy: 577, 202
+  size: 117, 82
+  orig: 121, 90
+  offset: 3, 8
+  index: -1
+skill1_huoxing_0007
+  rotate: false
+  xy: 45, 4
+  size: 117, 81
+  orig: 121, 90
+  offset: 4, 8
+  index: -1
+skill1_huoxing_0009
+  rotate: false
+  xy: 431, 2
+  size: 104, 75
+  orig: 121, 90
+  offset: 14, 13
+  index: -1
+skill1_huoxing_0011
+  rotate: false
+  xy: 537, 4
+  size: 104, 73
+  orig: 121, 90
+  offset: 14, 15
+  index: -1
+skill2_penshe_0001
+  rotate: false
+  xy: 441, 79
+  size: 145, 82
+  orig: 250, 188
+  offset: 102, 0
+  index: -1
+skill2_penshe_0003
+  rotate: true
+  xy: 441, 163
+  size: 156, 134
+  orig: 250, 188
+  offset: 88, 0
+  index: -1
+skill2_penshe_0005
+  rotate: false
+  xy: 429, 321
+  size: 194, 181
+  orig: 250, 188
+  offset: 56, 0
+  index: -1
+skill2_penshe_0008
+  rotate: true
+  xy: 241, 310
+  size: 192, 186
+  orig: 250, 188
+  offset: 55, 0
+  index: -1
+skill2_penshe_0011
+  rotate: true
+  xy: 45, 87
+  size: 227, 184
+  orig: 250, 188
+  offset: 19, 0
+  index: -1
+skill2_penshe_0014
+  rotate: false
+  xy: 2, 316
+  size: 237, 186
+  orig: 250, 188
+  offset: 7, 0
+  index: -1
+skill2_penshe_0017
+  rotate: false
+  xy: 231, 125
+  size: 208, 183
+  orig: 250, 188
+  offset: 35, 1
+  index: -1
+skill_dilie_0001
+  rotate: true
+  xy: 2, 11
+  size: 303, 41
+  orig: 315, 50
+  offset: 6, 4
+  index: -1

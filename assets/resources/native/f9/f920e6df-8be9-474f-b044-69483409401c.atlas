@@ -1,0 +1,48 @@
+
+BOSS0018_1.png
+size: 335,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiu0001
+  rotate: false
+  xy: 229, 3
+  size: 104, 62
+  orig: 125, 71
+  offset: 4, 6
+  index: -1
+qiu0002
+  rotate: false
+  xy: 229, 3
+  size: 104, 62
+  orig: 125, 71
+  offset: 4, 6
+  index: -1
+qiu0003
+  rotate: false
+  xy: 2, 2
+  size: 112, 63
+  orig: 125, 71
+  offset: 3, 6
+  index: -1
+qiu0004
+  rotate: false
+  xy: 2, 2
+  size: 112, 63
+  orig: 125, 71
+  offset: 3, 6
+  index: -1
+qiu0005
+  rotate: false
+  xy: 116, 3
+  size: 111, 62
+  orig: 125, 71
+  offset: 3, 6
+  index: -1
+qiu0006
+  rotate: false
+  xy: 116, 3
+  size: 111, 62
+  orig: 125, 71
+  offset: 3, 6
+  index: -1

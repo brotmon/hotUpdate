@@ -1,0 +1,55 @@
+
+BOSS0019_2.png
+size: 113,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingnangjing/1
+  rotate: true
+  xy: 61, 2
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+qingnangjing/2
+  rotate: false
+  xy: 66, 101
+  size: 20, 35
+  orig: 21, 37
+  offset: 1, 0
+  index: -1
+qingnangjing/3
+  rotate: false
+  xy: 66, 75
+  size: 25, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+qingnangjing/baoguangdian
+  rotate: false
+  xy: 2, 14
+  size: 57, 57
+  orig: 61, 61
+  offset: 2, 2
+  index: -1
+qingnangjing/baoza/yanwu
+  rotate: false
+  xy: 2, 73
+  size: 62, 63
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+qingnangjing/kuansanquan
+  rotate: true
+  xy: 61, 19
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+qingnangjing/xiaoguo/guangban
+  rotate: false
+  xy: 92, 9
+  size: 17, 8
+  orig: 18, 8
+  offset: 1, 0
+  index: -1
